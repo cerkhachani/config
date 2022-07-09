@@ -1,0 +1,10 @@
+/home/keclyon/.xprofile: line 10: /home/keclyon/.screenlayout/good.sh: No such file or directory
+/home/keclyon/.xprofile: line 22: xob-pulse-py: command not found
+/home/keclyon/.xprofile: line 23: xob: command not found
+/home/keclyon/.xprofile: line 22: xob: command not found
+/home/keclyon/.xprofile: line 23: xob-brightness-js: command not found
+Traceback (most recent call last):
+  File "/usr/bin/udiskie", line 4, in <module>
+    from udiskie.cli import Daemon
+ModuleNotFoundError: No module named 'udiskie'
+/bin/sh: line 1: checkupdates: command not found

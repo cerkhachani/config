@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/keclyon/Downloads/wallpaper_nature.jpg' 

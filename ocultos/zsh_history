@@ -1,0 +1,3937 @@
+: 1631370811:0;ls
+: 1631370816:0;cd snap
+: 1631370816:0;ls
+: 1631370817:0;cd ..
+: 1631370818:0;ls
+: 1631370818:0;clear
+: 1631370836:0;cd Downloads
+: 1631370836:0;git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k\
+
+: 1631370856:0;fc-list
+: 1631370860:0;fc-list | grep Mes
+: 1631370861:0;clear
+: 1631370888:0;ls
+: 1631370899:0;mv *.ttf ~/.fonts/
+: 1631370903:0;mkdir ~/.fonts
+: 1631370904:0;mv *.ttf ~/.fonts/
+: 1631370935:0;mkdir ~/.local/share/fonts
+: 1631370948:0;mv *.ttf ~/.local/share/fonts
+: 1631370965:0;mv ~/.fonts/*.ttf ~/.local/share/fonts
+: 1631370993:0;fc-cache -f -v
+: 1631371001:0;fc-list | grep Mes
+: 1631371002:0;celar
+: 1631371003:0;clear
+: 1631371020:0;exit
+: 1631371024:0;clear
+: 1631371036:0;p10k configure
+: 1631371039:0;clear
+: 1631371047:0;git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k\
+
+: 1631371061:0;exit
+: 1631371062:0;clear
+: 1631371064:0;p10k
+: 1631371080:0;git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k\
+
+: 1631371083:0;ls
+: 1631371179:0;mv powerlevel10k Downloads
+: 1631371179:0;ls
+: 1631371181:0;cd Downloads
+: 1631371181:0;ls
+: 1631371195:0;echo 'source ~/Downloads/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc\
+
+: 1631371197:0;exit
+: 1631371248:0;clear
+: 1631371251:0;echo "test"
+: 1631371252:0;clear
+: 1631371253:0;exit
+: 1631371254:0;clear
+: 1631371256:0;ls
+: 1631371262:0;nano .zshrc
+: 1631371279:0;clear
+: 1631371282:0;exit
+: 1631371284:0;clear
+: 1631371285:0;exit
+: 1631371288:0;clear
+: 1631371297:0;echo 'source ~/Downloads/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc\
+
+: 1631371299:0;exit
+: 1631371345:0;clear
+: 1631371348:0;echo "test"
+: 1631371353:0;clear
+: 1631371359:0;false
+: 1631371361:0;clear
+: 1631371365:0;p10k configure
+: 1631371407:0;clear
+: 1631371421:0;nano .config/alacritty/alacritty.yml
+: 1631371498:0;clear
+: 1631371523:0;sudo su
+: 1631371618:0;cd
+: 1631371619:0;clear
+: 1631371621:0;cd Downloads
+: 1631371622:0;ls
+: 1631371626:0;yay cadence
+: 1631371647:0;clear
+: 1631371653:0;sudo su
+: 1631372058:0;clear
+: 1631372093:0;cd
+: 1631372101:0;nano start_jack.sh
+: 1631372154:0;./start_jack.sh
+: 1631372160:0;chmod +x start_jack.sh
+: 1631372162:0;./start_jack.sh
+: 1631372802:0;xrandr --output DP-1 --mode 1920x1080
+: 1631372803:0;clear
+: 1631372833:0;nano .gtkrc-2.0
+: 1631372846:0;cd .config/gtk-3.0
+: 1631372846:0;ls
+: 1631372847:0;nano settings.ini
+: 1631372865:0;clear
+: 1631372866:0;reboot
+: 1631372916:0;xrandr --output DP-1 --mode 1920x1080
+: 1631372918:0;clear
+: 1631373056:0;sudo su
+: 1631373120:0;clear
+: 1631373121:0;ls
+: 1631373123:0;cd .config
+: 1631373123:0;ls
+: 1631373126:0;cd gtk-3.0
+: 1631373126:0;ls
+: 1631373128:0;ls -l
+: 1631373130:0;nano settings.ini
+: 1631373144:0;cd 
+: 1631373147:0;nano .gtkrc-2.0
+: 1631373155:0;reboot
+: 1631373531:0;
+: 1631373203:0;xrandr --output DP-1 --mode 1920x1080
+: 1631373204:0;clear
+: 1631373480:0;nano .zshrc
+: 1631373529:0;clear
+: 1631373531:0;exit
+: 1631373548:0;cd .oh-my-zsh
+: 1631373552:0;ls
+: 1631373561:0;cd plugins
+: 1631373561:0;ls
+: 1631373568:0;ls | grep compl
+: 1631373580:0;ls | grep zsh
+: 1631373596:0;cd zsh-completions
+: 1631373720:0;clear
+: 1631373721:0;cd
+: 1631373722:0;clear
+: 1631392162:0;
+: 1631392162:0;
+: 1631373811:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1631373820:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1631373839:0;cd .oh-my-zsh
+: 1631373841:0;cd plugins
+: 1631373844:0;ls | grep arch
+: 1631373846:0;cd ..
+: 1631373847:0;ls
+: 1631373848:0;cd 
+: 1631373851:0;nano .zsh
+: 1631373853:0;nano .zshrc
+: 1631373880:0;source .zshrc
+: 1631373883:0;echo "test"
+: 1631373883:0;clear
+: 1631373911:0;cd /run/media
+: 1631373912:0;ls
+: 1631373914:0;cd keclyon
+: 1631373914:0;ls
+: 1631373916:0;cd USB
+: 1631373916:0;ls
+: 1631373917:0;clear
+: 1631373918:0;ls
+: 1631373920:0;cd house
+: 1631373920:0;ls
+: 1631373923:0;cd ..
+: 1631373923:0;ls
+: 1631373931:0;cd -r Programming ~/Dev
+: 1631373936:0;cp -r Programming ~/Dev
+: 1631373975:0;sudo su
+: 1631374174:0;clear
+: 1631374178:0;bluetoothctl
+: 1631374203:0;sudo snap install spotify
+: 1631374372:0;clear
+: 1631374376:0;bluetoothctl
+: 1631374452:0;pulseaudio -k
+: 1631374457:0;sudo pulseaudio -k
+: 1631374506:0;bluetoothctl
+: 1631374576:0;systemctl enable pulseaudio
+: 1631374594:0;pulseaudio -k
+: 1631374615:0;pulseaudio --start
+: 1631374619:0;pulseaudio -k
+: 1631374657:0;sudo su
+: 1631374743:0;reboot
+: 1631374819:0;xrandr --output DP-1 --mode 1920x1080
+: 1631374820:0;clear
+: 1631374831:0;pulseaudio -k
+: 1631374836:0;bluetoothctl
+: 1631374933:0;sudo pacman -Rns bluetoothctl
+: 1631374948:0;sudo pacman -Rns bluez bluez-utils
+: 1631374954:0;sudo pacman -S bluez bluez-utils
+: 1631374958:0;bluetoothctl
+: 1631375107:0;sudo pacman -S pulseaudio-module-bluetooth \
+
+: 1631375192:0;cd Downloads
+: 1631375193:0;ls
+: 1631375194:0;yay pulseaudio-bluetooth
+: 1631375244:0;bluetoothctl
+: 1631375535:0;pulseaudio -k
+: 1631375568:0;journalctl -n 20
+: 1631375583:0;pactl load-module module-bluetooth-discover
+: 1631375602:0;sudo su
+: 1631375621:0;pactl load-module module-bluetooth-discover
+: 1631375625:0;bluetoothctl
+: 1631375670:0;clear
+: 1631375684:0;sudo snap install spotify
+: 1631375714:0;cd Dev
+: 1631375714:0;ls
+: 1631375716:0;cd bonneOffre
+: 1631375716:0;ls
+: 1631375719:0;cd admin
+: 1631375719:0;ls
+: 1631375723:0;ls -la
+: 1631375725:0;npm i
+: 1631375728:0;yarn
+: 1631375738:0;sudo npm i -g yarn expo-cli
+: 1631375753:0;spotify &
+: 1631375832:0;sudo snap install insomnia
+: 1631375860:0;cd Dev
+: 1631375862:0;cd bonneOffre
+: 1631375862:0;ls
+: 1631375863:0;cd admin
+: 1631375864:0;code .
+: 1631378392:0;yarn && cd ../server && yarn && ../web && yarn && ../nodeScraper && yarn && cd ../admin
+: 1631378402:0;celar
+: 1631378403:0;clear
+: 1631378404:0;cd Dev
+: 1631378405:0;ls
+: 1631378410:0;mkdir tkda
+: 1631378412:0;cd tkda
+: 1631378412:0;ls
+: 1631378413:0;clear
+: 1631378424:0;expo init app
+: 1631378444:0;cd tkda
+: 1631378447:0;cd Dev
+: 1631378447:0;cd tkda
+: 1631378448:0;clear
+: 1631378573:0;cd Dev
+: 1631378574:0;cd bonneOffre
+: 1631378578:0;code serve
+: 1631378583:0;code server
+: 1631378748:0;mkdir server && cd server && npm init -y && yarn add express jsonwebtoken bcrypt mongoose socket.io morgan express-mongo-sanitize uuid nanoid crypto cors helmet fs-extra clear chalk redis ora nodemailer lodash pidusage && yarn add --dev @types/express @types/jsonwebtoken @types/bcrypt @types/mongoose @types/socket.io socket.io-client @types/socket.io-client tsc ts-node-dev tsc-watch @types/moragan @types/chalk @types/express-mongo-sanitize @types/uuid @types/nanoid @types/crypto @types/cors @types/helmet ]types/fs-extra @types/clear @types/redis @types/ora @types/nodemailer @types/lodash @types/pidusage
+: 1631378886:0;yarn add --dev @types/express @types/jsonwebtoken @types/bcrypt @types/mongoose @types/socket.io socket.io-client @types/socket.io-client tsc ts-node-dev tsc-watch @types/morgan @types/chalk @types/express-mongo-sanitize @types/uuid @types/nanoid @types/crypto @types/cors @types/helmet ]types/fs-extra @types/clear @types/redis @types/ora @types/nodemailer @types/lodash @types/pidusage
+: 1631378932:0;yarn add --dev @types/express @types/jsonwebtoken @types/bcrypt @types/mongoose @types/socket.io socket.io-client @types/socket.io-client tsc ts-node-dev tsc-watch @types/morgan @types/chalk @types/express-mongo-sanitize @types/uuid @types/nanoid @types/cors @types/helmet @types/fs-extra @types/clear @types/redis @types/ora @types/nodemailer @types/lodash @types/pidusage
+: 1631384426:0;cd
+: 1631384428:0;clear
+: 1631384428:0;ls
+: 1631384429:0;cd Downloads
+: 1631384430:0;ls
+: 1631384442:0;yay figma-linux
+: 1631387932:0;shutdown now
+: 1631389799:0;xrandr --output DP-1 --mode 1920x1080
+: 1631389804:0;clear
+: 1631389832:0;nano .xprofile
+: 1631389847:0;clear
+: 1631389850:0;nano .xprofile
+: 1631389860:0;clear
+: 1631389969:0;cat .xprofile
+: 1631389997:0;cat .gtkrc-2.0
+: 1631390011:0;gsettings set org.gnome.desktop.interface gtk-theme "Material-Black-Blueberry"
+: 1631390037:0;clear
+: 1631390039:0;nano .gtkrc-2.0
+: 1631390061:0;ls /usr/share/themes
+: 1631390083:0;cd /usr/share/th
+: 1631390085:0;cd /usr/share/themes
+: 1631390087:0;cd Raleigh
+: 1631390087:0;ls
+: 1631390089:0;cd gtk-2.0
+: 1631390090:0;ls
+: 1631390091:0;cd ..
+: 1631390092:0;ls
+: 1631390094:0;cd Material-Black-Blueberry
+: 1631390094:0;ls
+: 1631390103:0;cd gtk-2.0
+: 1631390104:0;ls
+: 1631390106:0;cd ..
+: 1631390106:0;ls
+: 1631390113:0;cat COPYING
+: 1631390118:0;ls
+: 1631390181:0;clear
+: 1631390182:0;cd
+: 1631390186:0;clear
+: 1631390187:0;ls -la
+: 1631390270:0;cat .gtkrc-2.0
+: 1631390493:0;reboot
+: 1631391904:0;code .config/qtile
+: 1631391976:0;clear
+: 1631391982:0;cd /usr/share/rofi
+: 1631391982:0;ls
+: 1631391983:0;cd themes
+: 1631391983:0;ls
+: 1631391987:0;sudo nano onedark.rasi
+: 1631392039:0;clear
+: 1631392068:0;sudo nano onedark.rasi
+: 1631392161:0;clear
+: 1631392162:0;exit
+: 1631392164:0;sudo snap install figma-linux
+: 1631392390:0;bluetoothctl
+: 1631392468:0;clear
+: 1631392937:0;sudo su
+: 1631395659:0;cd Downloads
+: 1631395660:0;ls
+: 1631395670:0;ls ~/.local/share/fonts
+: 1631395680:0;mv BurbankBigCondensed-Bold.otf ~/.local/share/fonts
+: 1631395691:0;unzip Lato.zip
+: 1631395695:0;ls
+: 1631395699:0;ls *.ttf
+: 1631395711:0;mv *.ttf ~/.local/share/fonts
+: 1631395712:0;ls
+: 1631395715:0;fc-cache
+: 1631395723:0;fc-list | grep Lat
+: 1631395727:0;fc-list | grep Bur
+: 1631398415:0;shutdown now
+: 1631433139:0;cd .local
+: 1631433139:0;l
+: 1631433141:0;cd share
+: 1631433141:0;sl
+: 1631433142:0;ls
+: 1631433143:0;cd qtile
+: 1631433144:0;ls
+: 1631433145:0;cat qtile.log
+: 1631433163:0;sudo pacman -S python-psutil
+: 1631433199:0;clear
+: 1631433200:0;cd
+: 1631433207:0;cd Dev/bonneOffre/tk
+: 1631433212:0;cd Dev/tkda
+: 1631433213:0;ls
+: 1631433216:0;cd server
+: 1631433216:0;ls
+: 1631433257:0;mkdir src && cd src && mkdir models app router routes controllers communication security helpers config database auth
+: 1631433258:0;code .
+: 1631433278:0;cd .. && code .
+: 1631433377:0;clear
+: 1631433383:0;bluetoothctl
+: 1631433477:0;pulseaudio -k
+: 1631433549:0;journalctl -n 20
+: 1631433589:0;sudo su
+: 1631433720:0;bluetoothctl
+: 1631433772:0;journalctl -n 20
+: 1631433812:0;clear
+: 1631433816:0;systemctl status bluetooth
+: 1631433827:0;systemctl restart bluetooth
+: 1631433858:0;bluetoothctl
+: 1631433865:0;reboot
+: 1631434376:0;bluetoothctl
+: 1631434423:0;journalctl
+: 1631434450:0;journalctl -c 20
+: 1631434453:0;journalctl -h
+: 1631434489:0;journalctl -n 20
+: 1631434540:0;sudo pacman -S pulseaudio-bluetooth\
+
+: 1631434576:0;pacman -Qe
+: 1631434580:0;pacman -Qe | grep blue
+: 1631434618:0;pacman -S blueman alsa-plugins
+: 1631434623:0;sudo pacman -S blueman alsa-plugins
+: 1631434695:0;sudo nano /etc/pulse/default.pa
+: 1631434718:0;clear
+: 1631434735:0;pulse
+: 1631434740:0;pulseaudio
+: 1631434767:0;sudo nano /etc/pulse/default.pa
+: 1631434788:0;pulseaudio -k
+: 1631434792:0;sudo pulseaudio -k
+: 1631434824:0;pulseaudio --start
+: 1631434829:0;bluetoothctl
+: 1631434905:0;clear
+: 1631474108:0;cd Dev/tkda
+: 1631474108:0;ls
+: 1631474109:0;clear
+: 1631474110:0;cd server
+: 1631474111:0;code .
+: 1631474119:0;sudo su
+: 1631474193:0;clear
+: 1631474223:0;cd ..
+: 1631474225:0;cd bonneOffre
+: 1631474226:0;ls
+: 1631474234:0;cd server
+: 1631474234:0;ls
+: 1631474239:0;code .
+: 1631474337:0;clear
+: 1631474338:0;sudo snap install drawio
+: 1631481112:0;sudo snap install notion-snap
+: 1631481934:0;clear
+: 1631482670:0;shutdown now
+: 1631534976:0;bluetoothctl
+: 1631535042:0;pulseaudio -h
+: 1631535107:0;pacman -Qe
+: 1631535111:0;pacman -Qe | grep pulse
+: 1631535119:0;pulseaudio-bluetooth
+: 1631535177:0;sudo pacman -S pulseaudio-alsa pulseaudio-bluetooth bluez-utils
+: 1631535206:0;pulseaudio -k
+: 1631535224:0;pulseaudio --start
+: 1631535232:0;clear
+: 1631535238:0;bluetoothctl
+: 1631535302:0;pulseaudio -k
+: 1631535352:0;reboot
+: 1631535388:0;clear
+: 1631535393:0;systemctl status lightdm
+: 1631535408:0;systemctl enable --now lightdm
+: 1631535490:0;pulseaudio --start
+: 1631535506:0;bluetoothctl
+: 1631537792:0;fc-list
+: 1631537797:0;fc-list | grep Jet
+: 1631538536:0;qtile --hlep
+: 1631538539:0;qtile -h
+: 1631538548:0;qtile --shell
+: 1631538557:0;qtile shell
+: 1631538611:0;clear
+: 1631538899:0;celar
+: 1631538900:0;clear
+: 1631538901:0;celar
+: 1631538901:0;clear
+: 1631540373:0;sudo snap install clickup
+: 1631540461:0;sudo su
+: 1631540479:0;redis-cli
+: 1631543293:0;ls
+: 1631543294:0;cd Dev
+: 1631543295:0;ls
+: 1631543301:0;mkdir sellApp
+: 1631543303:0;cd sellApp
+: 1631543303:0;ls
+: 1631543304:0;clear
+: 1631543304:0;ls
+: 1631543305:0;clear
+: 1631543310:0;mkdir server 
+: 1631543400:0;cd server
+: 1631543400:0;ls
+: 1631543401:0;clear
+: 1631543402:0;git init
+: 1631543406:0;npm init -y
+: 1631543408:0;clear
+: 1631543409:0;ls
+: 1631543410:0;clear
+: 1631543411:0;code .
+: 1631543416:0;cd
+: 1631543416:0;clear
+: 1631543447:0;cd Dev/bonneOffre/server && code . && cd && cd Dev/sellApp && expo init app
+: 1631543469:0;cd Dev/sellApp
+: 1631543469:0;ls
+: 1631543470:0;cd server
+: 1631543470:0;ls
+: 1631543471:0;clear
+: 1631543477:0;yarn 
+: 1631543858:0;yarn add mongoose bcrypt chalk clear cookie-parser cors crypto csurf date-fns express express-mongo-sanitize fs-extra helmet jsonwebtoken lodash morgan nanoid nodemailer ora pidusage redis rimraf uuid validator nanoid yup terminal-kit socket.io dotenv yargs && yarn add --dev @types/node typescript ts-node-dev tsc-watch @types/mongoose @types/bcrypt @types/chalk @types/clear @types/cookie-parser @types/cors @types/crypto @types/csurf @types/date-fns @types/express @types/express-mongo-sanitize @types/fs-extra @types/helmet @types/jsonwebtoken @types/lodash @types/morgan @types/nanoid @types:nodemailer @types/ora @types/pidusage @types/redis @types/rimraf @types/uuid @types/validator @types/nanoid @types/yup @types/terminal-kit @types/socket.io socket.io-client @types/socket.io-client @types/dotenv @types/yargs
+: 1631544137:0;yarn add --dev @types/node typescript ts-node-dev tsc-watch @types/mongoose @types/bcrypt @types/clear @types/cookie-parser @types/cors @types/crypto @types/csurf @types/date-fns @types/express @types/express-mongo-sanitize @types/fs-extra @types/helmet @types/jsonwebtoken @types/lodash @types/morgan @types/nanoid @types:nodemailer @types/ora @types/pidusage @types/redis @types/rimraf @types/uuid @types/validator @types/nanoid @types/yup @types/terminal-kit @types/socket.io socket.io-client @types/socket.io-client @types/dotenv @types/yargs
+: 1631544181:0;yarn add --dev @types/node typescript ts-node-dev tsc-watch @types/mongoose @types/bcrypt @types/clear @types/cookie-parser @types/cors @types/csurf @types/date-fns @types/express @types/express-mongo-sanitize @types/fs-extra @types/helmet @types/jsonwebtoken @types/lodash @types/morgan @types/nanoid @types/nodemailer @types/ora @types/pidusage @types/redis @types/rimraf @types/uuid @types/validator @types/nanoid @types/yup @types/terminal-kit @types/socket.io socket.io-client @types/socket.io-client @types/dotenv @types/yargs
+: 1631544599:0;clear
+: 1631547376:0;mkdir src && cd src && mkdir models socket database security config controllers router routes auth
+: 1631547389:0;mkdir app
+: 1631547390:0;cd ..
+: 1631547391:0;clear
+: 1631547397:0;mkdir utils helpers middlewares
+: 1631547398:0;clear
+: 1631547400:0;cd
+: 1631547401:0;clear
+: 1631547402:0;cd Downloads
+: 1631547402:0;ls
+: 1631547405:0;unzip TLauncher-2.82.zip
+: 1631547406:0;ls
+: 1631547418:0;java -Xms 1024M -Xmx4096M TLauncher-2.82.jar
+: 1631547428:0;java -Xms2048M -Xmx4096M TLauncher-2.82.jar
+: 1631547436:0;java -Xms2048M -Xmx4096M -jar TLauncher-2.82.jar
+: 1631547582:0;cd
+: 1631547583:0;cd Dev
+: 1631547584:0;ls
+: 1631547587:0;cd sellApp
+: 1631547587:0;ls
+: 1631547588:0;cd server
+: 1631547589:0;clear
+: 1631547603:0;yarn add --dev tsc
+: 1631547607:0;yarn tsc
+: 1631547610:0;yarn tsc --init
+: 1631549106:0;clear
+: 1631549110:0;cd Dev/ls
+: 1631549112:0;cd Dev
+: 1631549113:0;ls
+: 1631549118:0;cd bonneOffre
+: 1631549119:0;ls
+: 1631549124:0;cd server && code .
+: 1631550145:0;sudo su
+: 1631550940:0;yay -S lightdm-webkit-theme-aether\
+
+: 1631550977:0;sudo pacman -S geeqie\
+
+: 1631551013:0;sudo nano /etc/lightdm/lightdm.conf
+: 1631551041:0;sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+: 1631551048:0;clear
+: 1631551050:0;reboot
+: 1631551639:0;cat /etc/locale.conf
+: 1631551648:0;cat /etc/locale.gen
+: 1631551658:0;cat /etc/locale.gen | grep en_US
+: 1631551695:0;sudo locatectl
+: 1631551740:0;pacman -S dolphin
+: 1631551749:0;sudo pacman -S dolphin dolphin-plugins
+: 1631551797:0;sudo pacman -S which\
+
+: 1631551805:0;sudo pacman -S ttf-dejavu ttf-liberation noto-fonts\
+
+: 1631551858:0;cd
+: 1631551858:0;clear
+: 1631551862:0;cat .gtkrc-2.0
+: 1631551878:0;mv .gtkrc-2.0 .gtkrc-2.0-back
+: 1631551883:0;cd .config/gtk-3.0
+: 1631551883:0;ls
+: 1631551890:0;mv settings.ini settings.ini.back
+: 1631551891:0;claer
+: 1631551894:0;clear
+: 1631551900:0;sudo pacman -S lxappearance\
+
+: 1631551908:0;sudo pacman -S kvantum-qt5\
+
+: 1631551917:0;echo "export QT_STYLE_OVERRIDE=kvantum" >> ~/.profile\
+
+: 1631551918:0;echo "export QT_STYLE_OVERRIDE=kvantum" >> ~/.xprofile\
+
+: 1631551924:0;cd 
+: 1631551928:0;cat .xprofile
+: 1631551943:0;sudo pacman -S rofi thunar firefox alacritty redshift scrot\
+
+: 1631551952:0;reboot
+: 1631552032:0;claer
+: 1631552033:0;clear
+: 1631552094:0;nano .xprofile
+: 1631552100:0;clear
+: 1631552176:0;reboot
+: 1631552668:0;mv .gtkrc-2.0-back .gtkrc-2.0
+: 1631552672:0;cd .config/gtk-3.0
+: 1631552672:0;ls
+: 1631552677:0;mv settings.ini.back settings.ini
+: 1631552677:0;clear
+: 1631552679:0;reboot
+: 1631552764:0;clear
+: 1631553177:0;pulseaudio --start
+: 1631553180:0;bluetoothctl
+: 1631553214:0;clear
+: 1631553927:0;cd Downloads
+: 1631553927:0;ls
+: 1631553932:0;cd planif
+: 1631553932:0;ls
+: 1631553936:0;cat sellapp.drawio
+: 1631553948:0;clear
+: 1631554046:0;cd ..
+: 1631554046:0;ls
+: 1631554054:0;ls -l
+: 1631554066:0;cd planif
+: 1631554068:0;ls
+: 1631554074:0;thunar
+: 1631555405:0;cd Dev/
+: 1631555405:0;ls
+: 1631555407:0;cd sellApp
+: 1631555408:0;ls
+: 1631555409:0;clear
+: 1631555410:0;code server 
+: 1631555414:0;cd server
+: 1631555469:0;mv middlewares src
+: 1631555474:0;clear
+: 1631555564:0;pycritty -h
+: 1631555572:0;pycritty -o 0.9
+: 1631555575:0;clear
+: 1631555577:0;pycritty -o 0
+: 1631555580:0;pycritty -o 0.5
+: 1631555583:0;pycritty -o 0.9
+: 1631555584:0;clear
+: 1631555590:0;false
+: 1631555591:0;claer
+: 1631555592:0;clear
+: 1631555807:0;node touch.js
+: 1631562407:0;bluetoothctl
+: 1631564095:0;clear
+: 1631564097:0;node
+: 1631567724:0;yarn dev:ids
+: 1631568660:0;shutdown now
+: 1631609190:0;sudo su
+: 1631615691:0;reboot
+: 1631625741:0;pulseaudio --start
+: 1631625744:0;bluetoothctl
+: 1631626148:0;clear
+: 1631626161:0;cd Dev/aternosClone/sel
+: 1631626166:0;cd Dev/sellApp
+: 1631626166:0;ls
+: 1631626168:0;clear
+: 1631626169:0;cd server
+: 1631626170:0;ls
+: 1631626172:0;clear
+: 1631626174:0;ls
+: 1631626175:0;clear
+: 1631626176:0;ls
+: 1631627859:0;ndoe
+: 1631627860:0;node
+: 1631627924:0;clear
+: 1631628718:0;node
+: 1631634363:0;claer
+: 1631634364:0;clear
+: 1631634518:0;node
+: 1631634630:0;sudo su
+: 1631636369:0;node
+: 1631636619:0;clear
+: 1631636988:0;node jwt.test.js
+: 1631638659:0;clear
+: 1631638660:0;cd
+: 1631638663:0;cd Dev/bonneOffre
+: 1631638663:0;ls
+: 1631638665:0;code server
+: 1631639383:0;yarn dev
+: 1631639461:0;yarn remove mongoose @types/mongoose
+: 1631639473:0;clear
+: 1631639507:0;yarn add mongoose@5.10.0
+: 1631639547:0;yarn add --dev @types/mongoose@5.11.97
+: 1631639558:0;clear
+: 1631639559:0;yarn dev
+: 1631639591:0;yarn remove @types/mongoose && yarn add --dev @types/mongoose
+: 1631639600:0;yarn dev
+: 1631639711:0;npm i --save-dev @types/mongoose
+: 1631639733:0;yarn dev
+: 1631639992:0;yarn remove @types/mongoose
+: 1631640050:0;npm i --save-dev @types/mgonoose
+: 1631640058:0;npm i --save-dev @types/mongoose
+: 1631640112:0;yarn remove @types/mongoose mongoose
+: 1631640124:0;yarn add mongoose && yarn add --dev @types/mongose
+: 1631640136:0;yarn add mongoose && yarn add --dev @types/mongoose
+: 1631640167:0;yarn dev
+: 1631640192:0;yarn remove mongoose && yarn add mongoose@5.10.0
+: 1631640202:0;yarn dev
+: 1631642856:0;yarn remove mongoose
+: 1631642870:0;yarn remove @types/mongoose && yarn add mongoose && yarn add --dev @types/mongoose
+: 1631642886:0;yarn dev
+: 1631646666:0;npm --help
+: 1631646681:0;npm remove
+: 1631646693:0;npm remove mongoose @types/mongoose
+: 1631646709:0;npm i --save-dev @ŧypes/mongoose
+: 1631646715:0;npm i --save-dev @types/mongoose
+: 1631646741:0;npm i mongoose@5.10.0
+: 1631646747:0;yarn dev
+: 1631646778:0;yarn remove mongoose && yarn add mongoose
+: 1631646826:0;yarn remove mongoose && yarn add mongoose@5.10.0
+: 1631646880:0;yarn remove mongoose @types/mongoose && yarn add mongoose && yarn add --dev @types/mongoose
+: 1631646900:0;yarn dev
+: 1631646997:0;claer
+: 1631647009:0;yarn remove mongoose @types/mongoose
+: 1631647013:0;yarn add mongoose
+: 1631647036:0;yarn remove mongoose && yarn add mongoose@5.10.0
+: 1631647069:0;yarn dev
+: 1631653486:0;reboot
+: 1631718197:0;bluetoothctl
+: 1631718243:0;pulseaudio --start
+: 1631718298:0;clear
+: 1631718303:0;bluetoothctl
+: 1631718421:0;sudo su
+: 1631718567:0;pulseaudio --start
+: 1631718571:0;bluetoothctl
+: 1631718640:0;blueoothctl
+: 1631718643:0;bluetoothctl
+: 1631718702:0;reboot
+: 1631718751:0;pulseaudio --start
+: 1631718754:0;bluetoothctl
+: 1631720833:0;cd Dev/sellApp
+: 1631720833:0;ls
+: 1631720834:0;clear
+: 1631721355:0;cd
+: 1631721356:0;cd Dev
+: 1631721356:0;ls
+: 1631721358:0;mkdir test
+: 1631721359:0;cd test
+: 1631721359:0;ls
+: 1631721362:0;mkdir fastify
+: 1631721363:0;cd fastify
+: 1631721364:0;ls
+: 1631721364:0;code .
+: 1631721378:0;npm init -y
+: 1631721379:0;clear
+: 1631721382:0;npm i fastify
+: 1631721438:0;node server.js
+: 1631721575:0;node serve.js
+: 1631722053:0;clear
+: 1631722058:0;npm i fastify-log
+: 1631722078:0;node serve.js
+: 1631723013:0;node server.js
+: 1631723748:0;clear
+: 1631723750:0;cd ..
+: 1631723758:0;mkdir fastifyandpsql
+: 1631723761:0;cd fastifyandpsql
+: 1631723787:0;node
+: 1631724969:0;sudo snap install chromium
+: 1631725316:0;node
+: 1631725461:0;clear
+: 1631725542:0;node
+: 1631725617:0;reboot
+: 1631725662:0;clear
+: 1631725714:0;pulseaudio --start && bluetoothctl
+: 1631725737:0;clear
+: 1631725816:0;node
+: 1631727952:0;clear
+: 1631727954:0;cd Downloads
+: 1631727954:0;ls
+: 1631727958:0;clear
+: 1631727967:0;clea
+: 1631727969:0;clear
+: 1631727999:0;sudo pacman -S yum
+: 1631728041:0;git clone https://aur.archlinux.org/amazon-corretto-11.git
+: 1631728052:0;cd amazon-corretto-11
+: 1631728053:0;ls
+: 1631728056:0;makepkg -si
+: 1631728072:0;sudo su
+: 1631728170:0;cd Downloads
+: 1631728171:0;dpkg
+: 1631728173:0;yay dpkg
+: 1631728517:0;sudo su
+: 1631728706:0;reboot
+: 1631805231:0;clear
+: 1631805234:0;cd Dev
+: 1631805235:0;ls
+: 1631805236:0;clear
+: 1631805237:0;cd sellApp
+: 1631805237:0;ls
+: 1631805238:0;clear
+: 1631805240:0;ls
+: 1631805247:0;code server && cd server
+: 1631805442:0;sudo su
+: 1631805512:0;pulseaudio --start
+: 1631805517:0;bluetoothctl
+: 1631805740:0;pulseaudio -k
+: 1631805745:0;bluetoothctl
+: 1631805868:0;pactl load-module module-bluetooth-discover
+: 1631805900:0;ls -l /var/lib | grep bluet
+: 1631805919:0;clea
+: 1631805921:0;clear
+: 1631805923:0;pulseaudio --start
+: 1631805926:0;bluetoothctl
+: 1631806360:0;yarn dev
+: 1631806418:0;clear
+: 1631806419:0;yarn dev
+: 1631806625:0;cd Dev
+: 1631806625:0;ls
+: 1631806627:0;cd sellApp
+: 1631806627:0;ls
+: 1631806629:0;cd app
+: 1631806629:0;ls
+: 1631806630:0;clear
+: 1631806631:0;code .
+: 1631806640:0;mkdir src && cd srv
+: 1631806642:0;mkdir src && cd src
+: 1631806643:0;clear
+: 1631806644:0;ls
+: 1631806646:0;cd src
+: 1631806646:0;ls
+: 1631806647:0;clear
+: 1631806667:0;mkdir backend navigation screens 
+: 1631806671:0;cd screens
+: 1631806671:0;ls
+: 1631806677:0;touch home.screen.tsx
+: 1631806704:0;touch settings.screen.tsx products.screen.tsx categories.screen.tsx
+: 1631806708:0;cd ../../
+: 1631806708:0;ls
+: 1631806712:0;git init .
+: 1631806713:0;clear
+: 1631806713:0;ls
+: 1631806714:0;clear
+: 1631808975:0;yarn dev
+: 1631813961:0;yay -S android-studio
+: 1631815624:0;cat /etc/resolv.conf
+: 1631816126:0;clear
+: 1631816126:0;celar
+: 1631816127:0;clear
+: 1631816332:0;cat | grep z
+: 1631816338:0;ls -a | grep z
+: 1631816357:0;cat .zshrc | grep export
+: 1631816368:0;nano .zshrc
+: 1631816409:0;clear
+: 1631816426:0;/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\
+
+: 1631824004:0;bluetoothctl
+: 1631832315:0;shutdown now
+: 1631895375:0;gcc
+: 1631895376:0;clear
+: 1631895376:0;g
+: 1631895380:0;clear
+: 1631895382:0;g++
+: 1631895382:0;clear
+: 1631895383:0;gcc
+: 1631895384:0;clear
+: 1631895385:0;gc
+: 1631895386:0;clear
+: 1631895425:0;celar
+: 1631895426:0;clear
+: 1631895711:0;sudo pacman -S jre8-openjdk-headless jre8-openjdk jdk8-openjdk openjdk8-doc openjdk8-src\
+
+: 1631895732:0;nano .zshrc
+: 1631895756:0;/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\
+
+: 1631895785:0;brew install gcc
+: 1631895786:0;bash
+: 1631895855:0;clear
+: 1631895879:0;yay -S brew-git
+: 1631895945:0;yay -S amazon-corretto-11
+: 1631896001:0;brew
+: 1631896010:0;brew install wget
+: 1631897335:0;yay -S amazon-corretto-11
+: 1631897363:0;brew install watchman
+: 1631897375:0;sudo chown -R $(whoami) /opt/brew/var/homebrew
+: 1631897384:0;ruby -v
+: 1631897428:0;brew install watchman
+: 1631897439:0;brew doctor
+: 1631897442:0;clear
+: 1631897444:0;celar
+: 1631897447:0;clear
+: 1631897453:0;brew install watchman
+: 1631897626:0;cd Docu
+: 1631897637:0;ls
+: 1631897640:0;cd Android
+: 1631897641:0;ls
+: 1631897642:0;cd Sdk
+: 1631897643:0;ls
+: 1631897644:0;clear
+: 1631897644:0;cd
+: 1631897645:0;clear
+: 1631897645:0;ls
+: 1631897649:0;cd Dev
+: 1631897649:0;ls
+: 1631897651:0;cd ..
+: 1631897651:0;ls
+: 1631897653:0;cd Downloads
+: 1631897653:0;ls
+: 1631897656:0;clear
+: 1631897677:0;thunar . &
+: 1631897691:0;ls -la
+: 1631897694:0;ls -a
+: 1631897695:0;celar
+: 1631897696:0;cd
+: 1631897697:0;ls -a
+: 1631897702:0;cd Doc
+: 1631897702:0;ls
+: 1631897703:0;celar
+: 1631897704:0;clear
+: 1631897714:0;ls
+: 1631897716:0;cd Downloads
+: 1631897737:0;clear
+: 1631897739:0;ls
+: 1631897741:0;cd planif
+: 1631897741:0;ls
+: 1631897745:0;cd ..
+: 1631897746:0;ls
+: 1631897750:0;code net.drawio.html
+: 1631897978:0;brew doctor
+: 1631898039:0;cd Dev
+: 1631898039:0;ls
+: 1631898041:0;cd sellApp
+: 1631898041:0;ls
+: 1631898048:0;npx react-native init testApp\
+
+: 1631898062:0;ls
+: 1631898080:0;npx react-native init testApp --template react-native-template-typescript\
+
+: 1631898106:0;clear
+: 1631898108:0;cd
+: 1631898109:0;cd Dev
+: 1631898109:0;ls
+: 1631898113:0;cd sellApp
+: 1631898114:0;ls
+: 1631898114:0;clear
+: 1631898119:0;expo init testingApp
+: 1631898326:0;cd testingApp
+: 1631898327:0;ls
+: 1631898330:0;clear
+: 1631898344:0;yarn android
+: 1631898366:0;yarn eject
+: 1631898459:0;ls
+: 1631898461:0;cd android
+: 1631898461:0;ls
+: 1631898470:0;./gradlew.bat
+: 1631898471:0;clear
+: 1631898472:0;ls
+: 1631898473:0;clear
+: 1631898474:0;ls
+: 1631898475:0;clear
+: 1631898479:0;cd ..
+: 1631898480:0;cd ios
+: 1631898480:0;ls
+: 1631898483:0;cd testingApp
+: 1631898484:0;ls
+: 1631898487:0;clear
+: 1631898488:0;cd ..
+: 1631898488:0;ls
+: 1631898489:0;cd ..
+: 1631898489:0;ls
+: 1631898490:0;clear
+: 1631898490:0;ls
+: 1631898495:0;code ;
+: 1631898503:0;code .
+: 1631899152:0;clear
+: 1631899152:0;cd ..
+: 1631899159:0;sudo su
+: 1631899219:0;cd Dev/sellApp
+: 1631899220:0;ls
+: 1631899225:0;cd server
+: 1631899226:0;yarn dev
+: 1631899231:0;cd app
+: 1631899232:0;ls
+: 1631899235:0;yarn start
+: 1631899488:0;yarn add @react-navigation/drawer react-native-gesture-handler react-native-reanimated && expo install react-native-gesture-handler react-native-reanimated\
+\
+
+: 1631899583:0;yarn add @react-navigation/stack\
+\
+\
+
+: 1631899594:0;expo install @react-native-masked-view/masked-view\
+
+: 1631899600:0;yarn add @react-native-masked-view/masked-view\
+
+: 1631899721:0;yarn start
+: 1631899770:0;yarn add @react-navigation/native\
+
+: 1631899800:0;expo install react-native-screens react-native-safe-area-context && yarn add react-native-screens react-native-safe-area-context\
+
+: 1631899809:0;clear
+: 1631899818:0;yarn start
+: 1631900076:0;expo install react-native-safe-area-context
+: 1631900233:0;expo install expo-file-system
+: 1631900397:0;clear
+: 1631900402:0;pulseaudio --start
+: 1631900411:0;pulseaudio -k
+: 1631900418:0;bluetoothctl
+: 1631900894:0;yarn expo-permissions
+: 1631900899:0;yarn add expo-permissions
+: 1631901192:0;celar
+: 1631901194:0;clear
+: 1631901195:0;expo -h
+: 1631901197:0;expo uninstall
+: 1631901205:0;expo --help | grep remove
+: 1631901210:0;expo --help | grep uninstall
+: 1631901256:0;yarn remove expo-permissions
+: 1631901274:0;expo install file-location
+: 1631901313:0;yarn add expo-location
+: 1631901347:0;yarn start
+: 1631901620:0;clear
+: 1631902184:0;node
+: 1631905815:0;yarn dev
+: 1631907533:0;redis-cli
+: 1631910021:0;bluetoothctl
+: 1631911422:0;node jwt.test.js
+: 1631921291:0;yarn dev
+: 1631924874:0;shutdown now
+: 1631957837:0;cd Dev
+: 1631957837:0;ls
+: 1631957841:0;cd sellApp
+: 1631957841:0;ls
+: 1631957842:0;clear
+: 1631957843:0;cd server
+: 1631957844:0;ls
+: 1631957844:0;clear
+: 1631957858:0;clera
+: 1631957858:0;clear
+: 1631959176:0;code .
+: 1631959183:0;reboot
+: 1632002327:0;cd Dev
+: 1632002327:0;ls
+: 1632002329:0;cd sellApp
+: 1632002330:0;ls
+: 1632002330:0;celar
+: 1632002332:0;clear
+: 1632002333:0;cd server
+: 1632002335:0;yarn dev
+: 1632002345:0;sudo su
+: 1632003012:0;cd Dev
+: 1632003013:0;ls
+: 1632003013:0;clear
+: 1632003014:0;mkdir os
+: 1632003016:0;cd os
+: 1632003016:0;ls
+: 1632003017:0;celar
+: 1632003017:0;clear
+: 1632003051:0;cd ..
+: 1632003051:0;ls
+: 1632003053:0;clear
+: 1632003076:0;git clone https://github.com/electron/electron-quick-start-typescript.git
+: 1632003078:0;clear
+: 1632003079:0;ls
+: 1632003080:0;cd electron-quick-start-typescript
+: 1632003081:0;ls
+: 1632003083:0;clear
+: 1632003084:0;code .
+: 1632003123:0;yarn
+: 1632003189:0;yarn watch
+: 1632003257:0;clear
+: 1632003257:0;cd ..
+: 1632003258:0;ls
+: 1632003259:0;clear
+: 1632003260:0;cd os
+: 1632003261:0;ls
+: 1632003262:0;clear
+: 1632003262:0;code .
+: 1632003290:0;clear
+: 1632003296:0;npm init -y
+: 1632003297:0;clear
+: 1632003308:0;mkdir public dist src
+: 1632003311:0;git init
+: 1632003313:0;clear
+: 1632003430:0;cp -r ../sellApp/server/.prettierrc .
+: 1632003432:0;clear
+: 1632003440:0;cd src
+: 1632003441:0;clear
+: 1632003441:0;ls
+: 1632003442:0;clear
+: 1632003453:0;touch main.ts preload.ts renderer.ts
+: 1632003476:0;yarn add --dev electron typescript tsc 
+: 1632003494:0;npx tsc --init
+: 1632003496:0;clear
+: 1632003619:0;cd ..
+: 1632003619:0;clear
+: 1632004315:0;yarn start
+: 1632004400:0;yarn watch
+: 1632004618:0;yarn add systeminformation && yarn add --dev @types/systeminformation
+: 1632004922:0;cat /proc
+: 1632004923:0;ls /proc
+: 1632004941:0;cat /proc/cpuinfo
+: 1632004948:0;cat /proc/cpuinfo | less
+: 1632004987:0;cd /proc
+: 1632004987:0;ls
+: 1632004991:0;cat meminfo
+: 1632004995:0;cat meminfo | less
+: 1632005010:0;cat meminfo 
+: 1632005041:0;clear
+: 1632005041:0;ls
+: 1632005045:0;cat interrupts
+: 1632005050:0;cat interrupts | less
+: 1632005059:0;clear
+: 1632005059:0;ls
+: 1632005064:0;cat consoles
+: 1632005068:0;cat filesystems
+: 1632005081:0;cat swaps
+: 1632005084:0;clear
+: 1632005084:0;ls
+: 1632005089:0;cd 1
+: 1632005089:0;ls
+: 1632005093:0;cd ..
+: 1632005093:0;ls
+: 1632005095:0;cd 10
+: 1632005096:0;ls
+: 1632005098:0;cd ..
+: 1632005098:0;clear
+: 1632005099:0;ls
+: 1632005105:0;cat io
+: 1632005108:0;cat iomem
+: 1632005108:0;clear
+: 1632005109:0;ls
+: 1632005111:0;cat execdomains
+: 1632005120:0;cd sys
+: 1632005120:0;sl
+: 1632005121:0;ls
+: 1632005126:0;cd kernel
+: 1632005126:0;ls
+: 1632005129:0;cd ..
+: 1632005132:0;cd kernel
+: 1632005133:0;ls
+: 1632005137:0;cat ostype
+: 1632005140:0;cat osrelease
+: 1632005144:0;cat pid_max
+: 1632005152:0;cat cad_pid
+: 1632005157:0;sudo cat cad_pid
+: 1632005171:0;ls -l
+: 1632005179:0;clear
+: 1632005179:0;ls
+: 1632005189:0;cat modprobe
+: 1632005200:0;cd ../
+: 1632005200:0;ls
+: 1632005201:0;cd fs
+: 1632005202:0;	l
+: 1632005204:0;clear
+: 1632005204:0;ls
+: 1632005207:0;clear
+: 1632005208:0;cd ..
+: 1632005208:0;ls
+: 1632005211:0;cd user
+: 1632005211:0;ls
+: 1632005215:0;cat max_cgroup_namespaces
+: 1632005219:0;clear
+: 1632005221:0;cd ..
+: 1632005221:0;ls
+: 1632005223:0;cd de
+: 1632005225:0;cd debug
+: 1632005226:0;ls
+: 1632005228:0;cat exception-trace
+: 1632005230:0;cat kprobes-optimization
+: 1632005231:0;clear
+: 1632005232:0;cd ..
+: 1632005232:0;ls
+: 1632005234:0;cd abi
+: 1632005234:0;ls
+: 1632005235:0;cat vsyscall32
+: 1632005238:0;cd ..
+: 1632005238:0;ls
+: 1632005241:0;cd de
+: 1632005243:0;cd dev
+: 1632005243:0;ls
+: 1632005247:0;cd tty
+: 1632005247:0;ls
+: 1632005252:0;cat ldisc_autoload
+: 1632005253:0;clear
+: 1632005257:0;cd ../../
+: 1632005258:0;clear
+: 1632005258:0;cd ..
+: 1632005259:0;clear
+: 1632005261:0;ls
+: 1632005264:0;cat iomem
+: 1632005266:0;clear
+: 1632005266:0;ls
+: 1632005273:0;cat version
+: 1632005276:0;clear
+: 1632005293:0;cat meminfo
+: 1632005296:0;cat meminfo | less
+: 1632005299:0;clear
+: 1632005490:0;ip route 2
+: 1632005498:0;ip route
+: 1632005516:0;ip route 2> /dev/null| grep default
+: 1632005573:0;which ip
+: 1632005635:0;export LC_ALL=C; /usr/bin/ip link show up; unset LC_ALL;
+: 1632005653:0;/usr/bin/ip link show up;
+: 1632010347:0;ls
+: 1632010348:0;clear
+: 1632010349:0;ls
+: 1632010355:0;cat meminfo
+: 1632010356:0;clear
+: 1632010651:0;ls
+: 1632010662:0;ls -l | grep net
+: 1632010666:0;clear
+: 1632010667:0;cat ne t
+: 1632010668:0;cat net
+: 1632010669:0;clear
+: 1632010671:0;cd net
+: 1632010671:0;ls
+: 1632010676:0;cd ..
+: 1632010676:0;clear
+: 1632010676:0;ls
+: 1632010684:0;cat cpuinfo
+: 1632010685:0;clear
+: 1632010686:0;ls
+: 1632010705:0;cd /var
+: 1632010705:0;ls
+: 1632010707:0;cd l
+: 1632010709:0;cd lib
+: 1632010709:0;ls
+: 1632010711:0;clear
+: 1632010712:0;cd bluetooth
+: 1632010712:0;ls
+: 1632010715:0;sudo su
+: 1632042471:0;cd Downloads
+: 1632042471:0;ls
+: 1632042472:0;clear
+: 1632042477:0;yay qtcreator
+: 1632042589:0;cat /etc/pacman.d/mirrorlist
+: 1632042603:0;nano /etc/pacman.d/mirrorlist
+: 1632042608:0;sudo nano /etc/pacman.d/mirrorlist
+: 1632042694:0;sudo code /etc/pacman.d/mirrorlist
+: 1632042700:0;sudo code /etc/pacman.d/mirrorlist --user-data-dir
+: 1632042739:0;cat /etc/pacman.d/mirrorlist| less
+: 1632042742:0;clear
+: 1632042746:0;yay qtcreator
+: 1632042847:0;pacman -Sy archlinux-keyring
+: 1632042849:0;sudo pacman -Sy archlinux-keyring
+: 1632042859:0;pacman-key --refresh-keys\
+
+: 1632042866:0;sudo pacman-key --refresh-keys\
+
+: 1632044042:0;yay qtcreator
+: 1632044073:0;pacman -S qtcreator
+: 1632044075:0;sudo pacman -S qtcreator
+: 1632044081:0;yay qtcreator
+: 1632044919:0;clear
+: 1632044921:0;cd ../Dev
+: 1632044922:0;ls
+: 1632044926:0;cd electron-quick-start-typescript
+: 1632044926:0;ls
+: 1632044928:0;clear
+: 1632044929:0;yarn build
+: 1632044946:0;yarn add electron-builder --dev\
+\
+
+: 1632044991:0;hwinfo
+: 1632044994:0;lscpu
+: 1632044996:0;clear
+: 1632044998:0;code ;
+: 1632045061:0;yarn pack
+: 1632045071:0;unzip electron-quick-start-typescript-v1.0.0.tgz
+: 1632045076:0;unzip -t electron-quick-start-typescript-v1.0.0.tgz
+: 1632045081:0;unzip -f electron-quick-start-typescript-v1.0.0.tgz
+: 1632045125:0;tar -zxvf electron-quick-start-typescript-v1.0.0.tgz
+: 1632045149:0;yarn dist
+: 1632045353:0;clear
+: 1632045353:0;cd
+: 1632045355:0;cd Dev
+: 1632045355:0;ls
+: 1632045358:0;cd test
+: 1632045358:0;ls
+: 1632045362:0;mkdir comports
+: 1632045363:0;cd comports
+: 1632045364:0;ls
+: 1632045365:0;clear
+: 1632045369:0;touch main.py
+: 1632045370:0;code .
+: 1632045394:0;pip3 install serial
+: 1632045424:0;code .
+: 1632045472:0;pip3 install serialmprot
+: 1632045476:0;pip3 install serial
+: 1632045578:0;python main.py
+: 1632045603:0;pip3 install pyserial
+: 1632045609:0;python main.py
+: 1632045733:0;pip3 remove serial
+: 1632045738:0;pip3  serial
+: 1632045741:0;pip3 -h
+: 1632045754:0;pip3 uninstall serial
+: 1632045762:0;pip3 install pyserial
+: 1632045791:0;python3 main.py
+: 1632045805:0;ls /dev
+: 1632045838:0;ls /dev/ttyS0
+: 1632045846:0;ls /run/media
+: 1632045846:0;ls
+: 1632045850:0;cd /run/media
+: 1632045850:0;ls
+: 1632045853:0;ls keclyon
+: 1632045854:0;ls
+: 1632045856:0;cd keclyon
+: 1632045857:0;sl
+: 1632045858:0;ls
+: 1632045859:0;clear
+: 1632045875:0;ls
+: 1632045885:0;python -m serial.tools.list_ports -v
+: 1632047051:0;ebooto
+: 1632047053:0;reboo
+: 1632047054:0;reboot
+: 1632055988:0;pulseaudio --start
+: 1632055993:0;pulseaudio -k
+: 1632055997:0;bluetoothctl
+: 1632056090:0;reboot
+: 1632056835:0;cd Dev
+: 1632056835:0;ls
+: 1632056836:0;clear
+: 1632056837:0;cd sellApp
+: 1632056837:0;ls
+: 1632056839:0;clear
+: 1632056840:0;cd server
+: 1632056840:0;ls
+: 1632056842:0;code .
+: 1632056869:0;cd /r
+: 1632056871:0;cd /run
+: 1632056873:0;cd media
+: 1632056873:0;ls
+: 1632056874:0;cd keclyon
+: 1632056874:0;ls
+: 1632056875:0;cd USB
+: 1632056876:0;ls
+: 1632056990:0;cd
+: 1632056991:0;clear
+: 1632056994:0;cd Dev
+: 1632056994:0;ls
+: 1632056995:0;cd os
+: 1632056996:0;	l
+: 1632057000:0;rm -rf *
+: 1632057003:0;code ;
+: 1632057007:0;code .
+: 1632057021:0;ls
+: 1632057025:0;sudo rm -rf *
+: 1632057037:0;l
+: 1632057041:0;rm -rf .git
+: 1632057042:0;clear
+: 1632057042:0;ls
+: 1632057043:0;clear
+: 1632057048:0;mkdir client && cd clie
+: 1632057051:0;cd client
+: 1632057052:0;clear
+: 1632057056:0;npm init -y
+: 1632057076:0;yarn add --dev electron
+: 1632057106:0;clear
+: 1632057107:0;ls
+: 1632057112:0;mkdir src && code .
+: 1632057183:0;npm install --save-dev typescript\
+
+: 1632057211:0;npx tsc --init
+: 1632057243:0;npm install --save-dev webpack webpack-cli ts-loader\
+
+: 1632057326:0;npm install --save-dev react react-dom @types/react @types/react-dom\
+
+: 1632057345:0;yarn add --dev react react-dom @types/react @types/react-dom\
+
+: 1632057389:0;npm install --save-dev html-webpack-plugin
+: 1632057491:0;sudo rm -rf *
+: 1632057978:0;npm i -g create-react-app
+: 1632057995:0;npm i -g create-react-app && create-react-app . --typescript
+: 1632058252:0;ls
+: 1632058258:0;npx create-react-app . --typescript
+: 1632058455:0;clear
+: 1632058455:0;ls
+: 1632058459:0;code .
+: 1632058508:0;sudo rm -rf *
+: 1632058544:0;npx create-react-app . --template typescript
+: 1632058638:0;ls
+: 1632058640:0;ls src
+: 1632058642:0;code .
+: 1632058702:0;yarn add -D electron
+: 1632059098:0;rm -rf *
+: 1632059102:0;sudo rm -rf *
+: 1632059512:0;code .
+: 1632059526:0;npm i electron typescript --dev\
+
+: 1632059532:0;npm init -y 
+: 1632059533:0;npm i electron typescript --dev\
+
+: 1632059550:0;yarn add electron typescript tsc ts-node-dev tsc-watch electron-reload electron-builder --dev
+: 1632059608:0;npx tsc --init
+: 1632059811:0;yarn watch
+: 1632059824:0;yarn star
+: 1632059826:0;yarn start
+: 1632059885:0;yarn watch
+: 1632062128:0;yarn start
+: 1632062137:0;yarn build
+: 1632062142:0;yarn start
+: 1632062594:0;yarn add electron-reload
+: 1632062599:0;yarn start
+: 1632062607:0;yarn add --dev @types/electorn-reload
+: 1632062625:0;yarn start
+: 1632062703:0;cd /run/media
+: 1632062706:0;cd keclyon/USB
+: 1632062707:0;ls
+: 1632062708:0;cd client
+: 1632062709:0;ls
+: 1632062711:0;code .
+: 1632063953:0;reboot
+: 1632159883:0;ls /run/media/keclyon/USB
+: 1632159884:0;ls
+: 1632159887:0;cd /run/media/keclyon/USB
+: 1632159888:0;clear
+: 1632159888:0;ls
+: 1632159890:0;cd buisnessOS
+: 1632159890:0;ls
+: 1632159891:0;clear
+: 1632159903:0;cp -r * ~/Dev/bos
+: 1632159914:0;mkdir ~/Dev/bos
+: 1632159916:0;cp -r * ~/Dev/bos
+: 1632160097:0;cd
+: 1632160098:0;cd Dev
+: 1632160099:0;ls
+: 1632160100:0;cd bo
+: 1632160101:0;ls
+: 1632160103:0;cd bos
+: 1632160103:0;ls
+: 1632160106:0;cd bos
+: 1632160107:0;ls
+: 1632160111:0;yarn
+: 1632160124:0;rm -rf yarn.lock package-lock.json
+: 1632160126:0;yarn
+: 1632160132:0;npm i
+: 1632160165:0;yarn
+: 1632166684:0;sudo su
+: 1632166718:0;ls
+: 1632166719:0;clear
+: 1632166721:0;l
+: 1632166727:0;code .
+: 1632166749:0;yarn start
+: 1632166782:0;clera
+: 1632166783:0;clear
+: 1632166794:0;cd Dev
+: 1632166794:0;ls
+: 1632166795:0;clear
+: 1632166796:0;cd bo
+: 1632166798:0;cd bos
+: 1632166798:0;ls
+: 1632166799:0;clear
+: 1632166801:0;cd test
+: 1632166801:0;ls
+: 1632166805:0;clear
+: 1632166807:0;./main.py
+: 1632166811:0;python main.py
+: 1632166857:0;pip3 install psutil gputil
+: 1632166872:0;python main.py
+: 1632166879:0;code .
+: 1632167114:0;python main.py
+: 1632167199:0;pulseaudio --start
+: 1632167201:0;pulseaudio -k
+: 1632167206:0;bluetoothctl
+: 1632167308:0;python main.py
+: 1632167539:0;python3 main.py
+: 1632169749:0;python
+: 1632169889:0;python3 main.py
+: 1632170312:0;pip3 install getmac
+: 1632170387:0;python3 main.py
+: 1632170572:0;pip3 install pip install gpuinfo
+: 1632170575:0;pip install gpuinfo
+: 1632170682:0;python3 ./gpu.py
+: 1632170698:0;pacman -S nvidia-smi
+: 1632170703:0;sudo pacman -S nvidia-smi
+: 1632170753:0;gl
+: 1632170756:0;clear
+: 1632170775:0;pacman -Qo `which glxinfo`
+: 1632170798:0;clear
+: 1632170801:0;pacman -S glxinfo
+: 1632170804:0;sudo pacman -S glxinfo
+: 1632175786:0;git init .
+: 1632175799:0;git status
+: 1632175801:0;git add .
+: 1632175811:0;git commit -m "first commit"
+: 1632175826:0;git config --global user.email "eclyon.dev@gmail.com"
+: 1632175844:0;git config --global user.name "Keclyon"
+: 1632175849:0;git commit -m "first commit"
+: 1632175856:0;git branch -M main
+: 1632175875:0;git remote add origin https://github.com/Keclyon/wordpad.git
+: 1632175884:0;git push -U origin main
+: 1632175894:0;git push -u origin main
+: 1632175953:0;shutdown now
+: 1632207681:0;git init .
+: 1632207734:0;git add .
+: 1632207742:0;git commit -m "first commit"
+: 1632207753:0;git branch -M main
+: 1632207771:0;git remote add origin https://github.com/Keclyon/os-manager.git
+: 1632207775:0;git push -u origin main
+: 1632207810:0;reboot
+: 1632248326:0;clear
+: 1632248328:0;cd Dev
+: 1632248328:0;ls
+: 1632248330:0;cd bo
+: 1632248330:0;ls
+: 1632248332:0;cd bos
+: 1632248332:0;ls
+: 1632248333:0;clear
+: 1632248333:0;ls
+: 1632248335:0;cd bos
+: 1632248335:0;ls
+: 1632248337:0;cd ..
+: 1632248340:0;rm -rf bos
+: 1632248378:0;ls
+: 1632248411:0;git clone https://github.com/Keclyon/wordpad.git
+: 1632248434:0;sudo su
+: 1632248538:0;ls
+: 1632248543:0;mv wordpad bos
+: 1632248545:0;ls
+: 1632248546:0;cd bos
+: 1632248547:0;ls
+: 1632248548:0;code .
+: 1632248572:0;clear
+: 1632248607:0;yarn dev
+: 1632248613:0;yarn
+: 1632249053:0;yarn start:web
+: 1632263267:0;shutdown now
+: 1632347071:0;pulseaudio --start
+: 1632347073:0;pulseaudio -k
+: 1632347074:0;clear
+: 1632347078:0;bluetoothctl
+: 1632348876:0;pulseaudio --start
+: 1632348879:0;pulseaudio -k
+: 1632348880:0;power on
+: 1632348883:0;bluetoothctl
+: 1632349065:0;clear
+: 1632349072:0;nano /etc/pulse/default.pa
+: 1632349077:0;sudo nano /etc/pulse/default.pa
+: 1632349155:0;nano /etc/asound.conf
+: 1632349158:0;sudo nano /etc/asound.conf
+: 1632349181:0;clear
+: 1632349184:0;nano jack.sh
+: 1632349204:0;nano jack-post.sh
+: 1632349211:0;nano jack.sh
+: 1632349223:0;nano stop.sh
+: 1632349235:0;nano stop-post.sh
+: 1632349244:0;clear
+: 1632349261:0;nano jackstartup.sh
+: 1632349270:0;nano jack_shudown 
+: 1632349280:0;chmod +x jack_startup jack_shutdown\
+
+: 1632349296:0;chmod +x jackstartup.sh jack_shudown\
+
+: 1632349307:0;./jackstartup.sh
+: 1632349312:0;pulseaudio --start
+: 1632349314:0;./jackstartup.sh
+: 1632349317:0;pulseaudio -k
+: 1632349319:0;./jackstartup.sh
+: 1632349706:0;clear
+: 1632349707:0;cd Dev
+: 1632349707:0;ls
+: 1632349710:0;mkdir c++
+: 1632349713:0;cd c++
+: 1632349713:0;ls
+: 1632349714:0;clear
+: 1632349725:0;mkdir pointers && cd pointers && code .
+: 1632349772:0;g++ main.cpp
+: 1632349775:0;./a.out
+: 1632349777:0;clear
+: 1632349788:0;g++ main.cpp
+: 1632349790:0;./a.out
+: 1632349828:0;g++ -h
+: 1632349833:0;g++ --help
+: 1632349910:0;chmod +x compile.sh
+: 1632349912:0;./compile.sh
+: 1632349962:0;./compile
+: 1632349966:0;chmod +x compile
+: 1632349968:0;./compile
+: 1632350311:0;g++ --help | gpre -I
+: 1632350316:0;g++ --help | grep -I
+: 1632350325:0;g++ --help | grep "-I"
+: 1632350331:0;g++ --help | grep I
+: 1632350382:0;./compile
+: 1632350393:0;./build/main.out
+: 1632350830:0;./compile
+: 1632350947:0;cd
+: 1632350949:0;clear
+: 1632350950:0;cd Dev
+: 1632350950:0;ls
+: 1632350956:0;cd ../Downloads
+: 1632350961:0;yay -S eclipse-cpp
+: 1632351049:0;shutdown now
+: 1632570464:0;clear
+: 1632570471:0;cd Dev
+: 1632570477:0;mkdir games && cd ga
+: 1632570480:0;cd games
+: 1632570480:0;ls
+: 1632570481:0;celar
+: 1632570482:0;clear
+: 1632570485:0;mkdir chess
+: 1632570486:0;cd chess
+: 1632570486:0;sl
+: 1632570488:0;clear
+: 1632570488:0;ls
+: 1632570489:0;clear
+: 1632570718:0;cd Downloads
+: 1632570718:0;ls
+: 1632570728:0;yay sfml
+: 1632570892:0;sudo pacman -S gcc\
+
+: 1632570900:0;sudo pacman -S sfml\
+
+: 1632570909:0;sudo pacman -S codeblocks\
+
+: 1632571351:0;ls /usr/share/SFML
+: 1632571351:0;ls
+: 1632571355:0;cd /usr/share/SFML
+: 1632571356:0;ls
+: 1632571362:0;sudo su
+: 1632571476:0;exit
+: 1632571478:0;cd
+: 1632571479:0;cd Dev
+: 1632571479:0;ls
+: 1632571480:0;clear
+: 1632571481:0;cd games
+: 1632571481:0;ls
+: 1632571482:0;cd chess
+: 1632571482:0;ls
+: 1632571483:0;clear
+: 1632571485:0;g++ chess.cpp
+: 1632571570:0;sudo pacman -Rns sfml
+: 1632571582:0;sudo pacman -Rns csfml sfml
+: 1632571590:0;g++ chess.cpp
+: 1632571668:0;cd
+: 1632571669:0;cd Downloads
+: 1632571669:0;ls
+: 1632571677:0;cd cmake-sfml-demo
+: 1632571706:0;pacman -Ss sfml 
+: 1632571747:0;pacman -Si sfml
+: 1632571766:0;sudo pacman -S mesa libsndfile libxrandr openal glew freetype2 \
+                 libx11
+: 1632571776:0;sudo pacman -S                  libx11
+: 1632571782:0;sudo pacman -S doxygen graphviz
+: 1632571789:0;git clone https://github.com/SFML/SFML.git
+: 1632571818:0;cd SFML
+: 1632571818:0;ls
+: 1632571824:0;mkdir build && cd build
+: 1632571958:0;pacman -S cmake
+: 1632571959:0;sudo pacman -S cmake
+: 1632571998:0;cd Downloads
+: 1632571999:0;ls
+: 1632572000:0;yay cmake
+: 1632572033:0;reboot
+: 1632832965:0;clear
+: 1632832966:0;cd Dev
+: 1632832967:0;ls
+: 1632832970:0;mkdir crid
+: 1632832971:0;cd crid
+: 1632832971:0;ls
+: 1632833049:0;mkdir server && cd server && npm init -y && yarn add express mongoose jsonwebtoken date-fns && yarn add --dev typescript @types/node @types/expres @types/mongoose @types/jsonwebtoken @types/date-fns ts-node-dev tsc tsc-watch && npx tsc --init && cd .. && expo init app
+: 1632833126:0;yarn add --dev @types/express @types/mongoose @types/jsonwebtoken tsc-node-dev tsc-watch tsc && npx tsc --init && cd .. && expo init app
+: 1632833145:0;yarn add --dev @types/express @types/mongoose @types/jsonwebtoken ts-node-dev tsc-watch tsc && npx tsc --init && cd .. && expo init app
+: 1632833239:0;ls
+: 1632833241:0;rm -rf app
+: 1632833241:0;ls
+: 1632833242:0;clear
+: 1632833246:0;expo init app 
+: 1632833432:0;cd app
+: 1632833432:0;ls
+: 1632833436:0;code .
+: 1632833477:0;cd ..
+: 1632833479:0;rm -rf app
+: 1632833479:0;ls
+: 1632833482:0;expo init app
+: 1632833488:0;cd Dev
+: 1632833488:0;ls
+: 1632833490:0;cd crid
+: 1632833490:0;ls
+: 1632833491:0;clear
+: 1632833492:0;cd server
+: 1632833493:0;code .
+: 1632833497:0;cd Dev
+: 1632833498:0;ls
+: 1632833498:0;clear
+: 1632833500:0;cd crid
+: 1632833500:0;ld
+: 1632833501:0;ls
+: 1632833502:0;cd ..
+: 1632833503:0;cd sellApp
+: 1632833504:0;ls
+: 1632833506:0;code server
+: 1632833564:0;cp . ../../crid/server
+: 1632833568:0;cp -r . ../../crid/server
+: 1632833583:0;cd
+: 1632833584:0;ls
+: 1632833585:0;cd Dev
+: 1632833586:0;ls
+: 1632833587:0;cd crid
+: 1632833588:0;ls
+: 1632833590:0;rm -rf server
+: 1632833594:0;cp -r . ../../crid/server
+: 1632833597:0;ls
+: 1632833600:0;cd server
+: 1632833600:0;ls
+: 1632833601:0;code .
+: 1632833633:0;cd ../app && code . && yarn start 
+: 1632833666:0;cd ..
+: 1632833669:0;cd sellApp
+: 1632833670:0;ls
+: 1632833673:0;code app
+: 1632833726:0;yarn add @react-navigation/native\
+
+: 1632833735:0;expo install react-native-screens react-native-safe-area-context\
+
+: 1632833742:0;yarn add react-native-screens react-native-safe-area-context\
+
+: 1632833756:0;yarn add @react-navigation/native-stack\
+
+: 1632833794:0;yarn start
+: 1632833888:0;cd ../crid
+: 1632833890:0;cd app
+: 1632833890:0;ls
+: 1632833894:0;yarn add react-navigation
+: 1632833908:0;yarn add --dev @types/react-navigation
+: 1632834103:0;cd ..
+: 1632834103:0;ls
+: 1632834104:0;cd ..
+: 1632834104:0;ls
+: 1632834114:0;cd tkda
+: 1632834114:0;ls
+: 1632834116:0;cd app
+: 1632834116:0;ls
+: 1632834119:0;cd ..
+: 1632834119:0;ls
+: 1632834120:0;cd ..
+: 1632834121:0;ls
+: 1632834130:0;cd games
+: 1632834131:0;ls
+: 1632834133:0;cd ..
+: 1632834133:0;ls
+: 1632834185:0;cd crid/app
+: 1632834185:0;ls
+: 1632834186:0;yarn add @react-navigation/bottom-tabs\
+
+: 1632834557:0;yarn start
+: 1632834677:0;[200~expo install react-native-safe-area-context~
+: 1632834678:0;expo install react-native-safe-area-context
+: 1632834683:0;yarn start
+: 1632834750:0;code app
+: 1632834763:0;cd ..
+: 1632834763:0;ls
+: 1632834765:0;thunar &
+: 1632834952:0;yarn add react-native-vector-icons && yarn add --dev @types/react-native-vector-icons
+: 1632835679:0;cd bonneOffre/n
+: 1632835680:0;cd bonneOffre/
+: 1632835681:0;clear
+: 1632835681:0;ls
+: 1632835684:0;cd server
+: 1632835684:0;ls
+: 1632835688:0;cd ..
+: 1632835690:0;cd sel
+: 1632835691:0;ls
+: 1632835692:0;cd ..
+: 1632835693:0;cd serl
+: 1632835695:0;cd sellApp
+: 1632835696:0;ls
+: 1632835697:0;cd app
+: 1632835698:0;ls
+: 1632835701:0;cd ..
+: 1632835702:0;cd server
+: 1632835702:0;ls
+: 1632835718:0;cp .prettierrc ~/Dev/crid/app
+: 1632835720:0;cp .prettierrc ~/Dev/crid/server
+: 1632835721:0;clear
+: 1632835992:0;sudo su
+: 1632836009:0;sudosu
+: 1632836012:0;suo du
+: 1632836013:0;su
+: 1632836020:0;sudo su
+: 1632836053:0;yarn dev
+: 1632838680:0;reboot
+: 1632868199:0;cd Dev
+: 1632868200:0;ls
+: 1632868200:0;clear
+: 1632868205:0;cd crid
+: 1632868205:0;ls
+: 1632868206:0;clear
+: 1632868216:0;code server && code app && cd app && yarn start
+: 1632868245:0;cd Dev
+: 1632868245:0;ls
+: 1632868247:0;cd crid
+: 1632868248:0;ls
+: 1632868248:0;clear
+: 1632868250:0;cd server
+: 1632868251:0;yarn dev
+: 1632868283:0;sudo su
+: 1632868321:0;yarn dev
+: 1632869129:0;shutdown now
+: 1633106538:0;cd Dev
+: 1633106538:0;ls
+: 1633106539:0;clear
+: 1633106541:0;cd crid
+: 1633106542:0;ls
+: 1633106543:0;clear
+: 1633106553:0;cd server && code . && cd app && code . && cd ../server
+: 1633106570:0;code ../app
+: 1633107300:0;sudo su
+: 1633107509:0;cd Dev
+: 1633107510:0;ls
+: 1633107512:0;cd crid
+: 1633107512:0;ls
+: 1633107514:0;cd server
+: 1633107516:0;yarn dev
+: 1633107653:0;yarn add axios && yarn add --dev @types/axios
+: 1633107747:0;yarn add socket.io-client && yarn add --dev @types/socket.io-client
+: 1633108638:0;clear
+: 1633108661:0;claer
+: 1633108668:0;clear
+: 1633108669:0;cd Dev
+: 1633108670:0;ls
+: 1633108670:0;clear
+: 1633108672:0;cd crid
+: 1633108673:0;ls
+: 1633108673:0;clear
+: 1633108674:0;cd server
+: 1633108682:0;code . && yarn dev
+: 1633108688:0;cd Dev
+: 1633108688:0;ls
+: 1633108690:0;cd crid
+: 1633108690:0;ls
+: 1633108691:0;clear
+: 1633108692:0;cd app
+: 1633108698:0;code . && yarn start
+: 1633110470:0;yarn dev
+: 1633111557:0;clear
+: 1633111559:0;yarn dev
+: 1633111561:0;yarn start
+: 1633111570:0;yarn dev
+: 1633111591:0;yarn start
+: 1633111598:0;yarn dev
+: 1633111760:0;redis-cli
+: 1633111985:0;redis-cli flushall
+: 1633112085:0;yarn dev
+: 1633112105:0;reboot
+: 1633191024:0;sudo su
+: 1633191075:0;cd Dev
+: 1633191076:0;ls
+: 1633191077:0;cd crid
+: 1633191078:0;ls
+: 1633191083:0;clear
+: 1633191088:0;code server && code app
+: 1633191095:0;cd server
+: 1633191099:0;yarn dev
+: 1633191653:0;cd Dev
+: 1633191655:0;cd crid
+: 1633191656:0;ls
+: 1633191656:0;clear
+: 1633191657:0;cd app
+: 1633191659:0;yarn start
+: 1633191962:0;yarn dev
+: 1633192171:0;redis-cli flushall
+: 1633192318:0;redis-cli
+: 1633194103:0;yarn start
+: 1633194109:0;yarn dev
+: 1633194624:0;shutdown now
+: 1633211513:0;reboot
+: 1635588829:0;clear
+: 1635588843:0;ls
+: 1635588845:0;la
+: 1635588848:0;clear
+: 1635588850:0;cd Dev
+: 1635588850:0;ls
+: 1635588851:0;clear
+: 1635588855:0;ls
+: 1635588859:0;cd aternosClone
+: 1635588860:0;ls
+: 1635588861:0;cls
+: 1635588862:0;clear 
+: 1635588868:0;clear
+: 1635588868:0;cear
+: 1635588869:0;clear
+: 1635588872:0;ls
+: 1635588876:0;cd api
+: 1635588885:0;clear
+: 1635588889:0;cd Dev/aternosClone
+: 1635588889:0;ls
+: 1635588891:0;cd web
+: 1635588892:0;ls
+: 1635588894:0;yarn start
+: 1635588898:0;yarn dev
+: 1635588901:0;ls
+: 1635588916:0;yarn
+: 1635588921:0;ls
+: 1635588924:0;yarn
+: 1635588936:0;cd Dev/aternosClone
+: 1635588936:0;ls
+: 1635588939:0;cd connection
+: 1635588939:0;ls
+: 1635588941:0;yarn
+: 1635588954:0;code socket
+: 1635588962:0;code socket.ts
+: 1635588989:0;code .
+: 1635589002:0;yarn dec
+: 1635589004:0;yarn dev
+: 1635589012:0;sudo su
+: 1635589121:0;yarn dev
+: 1635589146:0;code .
+: 1635589222:0;cd Dev
+: 1635589222:0;ls
+: 1635589227:0;cd crid
+: 1635589227:0;ls
+: 1635589230:0;cd server
+: 1635589230:0;ls
+: 1635589234:0;la
+: 1635589237:0;cat .env
+: 1635589242:0;cd ..
+: 1635589243:0;ls
+: 1635589247:0;cd sellApp
+: 1635589248:0;ls
+: 1635589250:0;cd server
+: 1635589252:0;la
+: 1635589255:0;cat .env
+: 1635589258:0;cd ..
+: 1635589259:0;ls
+: 1635589262:0;cd bonneOffre
+: 1635589262:0;ls
+: 1635589264:0;cd server
+: 1635589265:0;ls
+: 1635589266:0;cd ..
+: 1635589268:0;cd .
+: 1635589269:0;cd ..
+: 1635589270:0;ls
+: 1635589274:0;cd tkda
+: 1635589275:0;ls
+: 1635589276:0;cd server
+: 1635589277:0;l
+: 1635589278:0;ls
+: 1635589280:0;la
+: 1635589284:0;cd ..
+: 1635589285:0;ls
+: 1635589288:0;cd bos
+: 1635589289:0;ls
+: 1635589291:0;la
+: 1635589293:0;cd bos
+: 1635589293:0;ls
+: 1635589294:0;cd ..
+: 1635589298:0;la
+: 1635589377:0;cd crid
+: 1635589377:0;ls
+: 1635589379:0;cd server
+: 1635589380:0;ls
+: 1635589382:0;cd src
+: 1635589382:0;ls
+: 1635589386:0;cd databases
+: 1635589386:0;ls
+: 1635589388:0;cat mongo.database.ts
+: 1635589438:0;yarn dev
+: 1635589473:0;sudo su
+: 1635589480:0;clear
+: 1635589481:0;sudo su
+: 1635589718:0;yarn dev
+: 1635589748:0;code .
+: 1635589789:0;yarn dev
+: 1635590129:0;code .
+: 1635590131:0;yarn dev
+: 1635590396:0;shutdown now
+: 1635607744:0;reboot
+: 1635607910:0;grub-customizer &
+: 1635607914:0;grub-customizer 
+: 1635607935:0;sudo su
+: 1635608180:0;ls
+: 1635608183:0;clear
+: 1635608185:0;cd Downloads
+: 1635608185:0;l
+: 1635608186:0;sclear
+: 1635608187:0;clear
+: 1635608191:0;mkdir themes
+: 1635608193:0;cd themes
+: 1635608193:0;ls
+: 1635608194:0;clear
+: 1635608211:0;git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes\~
+: 1635608217:0;git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes
+: 1635608239:0;cd Top-5-Bootloader-Themes
+: 1635608239:0;ls
+: 1635608240:0;clear
+: 1635608242:0;sudo ./install.sh
+: 1635608299:0;sudo su
+: 1635608314:0;reboot
+: 1635608409:0;clear
+: 1635608409:0;clea
+: 1635608410:0;rclear
+: 1635608411:0;clear
+: 1635608415:0;clea
+: 1635608416:0;clear
+: 1635608419:0;clea
+: 1635608421:0;clear
+: 1635608581:0;mysql -u root -p
+: 1635608585:0;sudo su
+: 1635608631:0;mysql_secure_installation
+: 1635608634:0;sudo su
+: 1635608867:0;top
+: 1635612504:0;clear
+: 1635612505:0;cear
+: 1635612506:0;clear
+: 1635612512:0;celar
+: 1635613319:0;cd Downloads
+: 1635613320:0;ls
+: 1635613326:0;unzip nodejs-notes-app-master.zip
+: 1635613332:0;cd nodejs-notes-app-master
+: 1635613332:0;ls
+: 1635613334:0;clear
+: 1635613335:0;yarn
+: 1635613364:0;code .
+: 1635613436:0;cd
+: 1635613438:0;cd Dev
+: 1635613438:0;ls
+: 1635613447:0;code aternosClone/api
+: 1635613551:0;cd ../Downloads/nodejs-notes-app-master
+: 1635613551:0;ls
+: 1635613555:0;clear
+: 1635613556:0;yarn dev
+: 1635614405:0;shutdown now
+: 1637598733:0;
+: 1635617345:0;sudo su
+: 1635617368:0;cd Dev
+: 1635617368:0;ls
+: 1635617368:0;clear
+: 1635617413:0;cd aternosClone
+: 1635617417:0;clear
+: 1635617439:0;cd apiu
+: 1635617441:0;cd api
+: 1635617441:0;clear
+: 1635617443:0;yarn de
+: 1635617445:0;yarn dev
+: 1635617466:0;cd Dev/aternosClone/web
+: 1635617468:0;yarn start
+: 1635617474:0;cd Dev
+: 1635617474:0;ls
+: 1635617476:0;cd aternosClone
+: 1635617476:0;ls
+: 1635617477:0;clear
+: 1635617478:0;cd serverManager
+: 1635617480:0;cd . .
+: 1635617482:0;cd  .. 
+: 1635617483:0;cd connection
+: 1635617483:0;ls
+: 1635617484:0;celar
+: 1635617485:0;clear
+: 1635617486:0;yarn dev
+: 1635617543:0;cd Downloads
+: 1635617543:0;ls
+: 1635617544:0;clear
+: 1635617564:0;java -Xms2048M -Xmx2048M TLauncher-2.82.jar
+: 1635617569:0;java -Xms2048M -Xmx2048M -jar TLauncher-2.82.jar
+: 1635617958:0;cd Dev
+: 1635617960:0;cd aternosClone
+: 1635617960:0;ls
+: 1635617961:0;clear
+: 1635617961:0;cd api
+: 1635617962:0;clear
+: 1635617965:0;cd servers
+: 1635617966:0;ls
+: 1635617967:0;clear
+: 1635617968:0;cd data
+: 1635617968:0;ls
+: 1635617971:0;la
+: 1635617977:0;cd U_94yr3rMMwCU2dcMpL8RuYEm4yN31CvmSuBrwBL65gKHsVhEQUxSVEO_8YfTJstnqGGBNere-H
+: 1635617978:0;clear
+: 1635617979:0;ls
+: 1635617988:0;nano server.properties
+: 1635617998:0;clear
+: 1635618045:0;yarn dev
+: 1635618173:0;reboo
+: 1635618174:0;reboot
+: 1636655077:0;clear
+: 1636655080:0;cd Dev
+: 1636655080:0;	ls
+: 1636655081:0;clear
+: 1636655082:0;mkdir chess
+: 1636655084:0;cd chess
+: 1636655084:0;ls
+: 1636655102:0;npx create-next-app
+: 1636655117:0;ls
+: 1636655119:0;cd web
+: 1636655119:0;ls
+: 1636655122:0;cd ..
+: 1636655123:0;rmdir web
+: 1636655126:0;rm -r we
+: 1636655127:0;rm -r web
+: 1636655128:0;cler
+: 1636655130:0;clear
+: 1636655130:0;ls
+: 1636655131:0;clear
+: 1636655181:0;npx create-next-app@latest web --ts
+: 1636655192:0;rm -r web
+: 1636655193:0;ls
+: 1636655193:0;clear
+: 1636655205:0;yarn create next-app web --tyescript
+: 1636655312:0;ls
+: 1636655315:0;rm -r web
+: 1636655316:0;ls
+: 1636655318:0;yarn create next-app web --tyescript
+: 1636656789:0;clear
+: 1636656790:0;cd wev
+: 1636656792:0;cd web
+: 1636656793:0;ls
+: 1636656795:0;code .
+: 1636656873:0;snap install brave
+: 1636656876:0;sudo snap install brave
+: 1636656890:0;\
+\
+sudo snap install brave\
+\
+
+: 1636656899:0;snap help refresh
+: 1636656902:0;clear
+: 1636656904:0;snap refresh
+: 1636656905:0;clear
+: 1636656908:0;\
+\
+sudo snap install brave\
+\
+
+: 1636656915:0;sudo snap --hlep
+: 1636656920:0;sudo snap --hemp
+: 1636656924:0;sudo snap --help
+: 1636656930:0;sudo snap remove brave
+: 1636657323:0;reboot
+: 1636796785:0;clear
+: 1636796786:0;ls
+: 1636796787:0;clear
+: 1636796788:0;cd Dev
+: 1636796788:0;ls
+: 1636796791:0;mkdir math && cd math
+: 1636796792:0;clear
+: 1636796796:0;code .
+: 1636796804:0;touch gauss.py
+: 1636796941:0;python3 gauss.py
+: 1636800118:0;pip install numpy
+: 1636800179:0;python3 gauss.py
+: 1636802150:0;cd ..
+: 1636802151:0;clear
+: 1636802152:0;ls
+: 1636802156:0;cd sellApp
+: 1636802156:0;ls
+: 1636802157:0;celar
+: 1636802158:0;clear
+: 1636802159:0;cd server
+: 1636802159:0;ls
+: 1636802161:0;code .
+: 1636802206:0;cd ..
+: 1636802207:0;ls
+: 1636802208:0;clera
+: 1636802209:0;clear
+: 1636802213:0;mkdir sellersApp
+: 1636802217:0;cd sellersApp
+: 1636802217:0;ls
+: 1636802218:0;celar
+: 1636802218:0;clear
+: 1636802220:0;mkdir server 
+: 1636802376:0;sudo pacman -S jre-openjdk-headless jre-openjdk jdk-openjdk openjdk-doc openjdk-src
+: 1636802437:0;java --version
+: 1636802538:0;clear
+: 1636802539:0;celar
+: 1636802540:0;clear
+: 1636802550:0;reboot
+: 1636841492:0;sudo su
+: 1636841519:0;cadence &
+: 1636841548:0;exit
+: 1636841557:0;jack_control start
+: 1636841582:0;dbus-launch jack_control start
+: 1636841589:0;tail -f ~/.log/jack/jackdbus.log
+: 1636841866:0;pasuspender -- jackd\
+
+: 1636841895:0;reboot
+: 1636883535:0;cd Dev
+: 1636883535:0;ls
+: 1636883536:0;clear
+: 1636883538:0;cd math
+: 1636883538:0;ls
+: 1636883539:0;clear
+: 1636883540:0;code .
+: 1636883556:0;python3 gauss.py
+: 1636884155:0;r eboot
+: 1636884155:0;ebooto
+: 1636884157:0;reboot
+: 1636903002:0;clear
+: 1636903004:0;g++
+: 1636903005:0;clear
+: 1636903007:0;cd mat
+: 1636903007:0;ls
+: 1636903010:0;cd Dev
+: 1636903010:0;ls
+: 1636903021:0;mkdir cmaty
+: 1636903027:0;mv cmaty cmath
+: 1636903029:0;cd cmath
+: 1636903029:0;clear
+: 1636903031:0;code .
+: 1636903044:0;clear
+: 1636903417:0;chmod +x run.sh
+: 1636903418:0;clear
+: 1636903421:0;./run.sh
+: 1636903561:0;cd build
+: 1636903561:0;s
+: 1636903562:0;ls
+: 1636903580:0;cd ..
+: 1636903583:0;./run.sh
+: 1636903587:0;clear
+: 1636903833:0;./run.sh
+: 1636904173:0;clear
+: 1636904174:0;cd ..
+: 1636904182:0;mkdir learning && cd learning
+: 1636904183:0;clear
+: 1636904185:0;mkdir c++
+: 1636904186:0;cd c++
+: 1636904187:0;ls
+: 1636904187:0;clear
+: 1636909371:0;reboot
+: 1636988713:0;celar
+: 1636988714:0;clear
+: 1636988719:0;cd Dev/cmath
+: 1636988719:0;ls
+: 1636988720:0;clear
+: 1636988721:0;code .
+: 1636992925:0;cd .
+: 1636992926:0;cd ..
+: 1636992934:0;mkdir codeforces
+: 1636992936:0;cd codeforces
+: 1636992936:0;ls
+: 1636992938:0;clear
+: 1636992939:0;code .
+: 1636994283:0;clear
+: 1636994286:0;clear 
+: 1636994287:0;clear
+: 1636994291:0;cd Dev
+: 1636994292:0;ls
+: 1636994292:0;celar
+: 1636994293:0;clear
+: 1636994296:0;mkdir maCopie
+: 1636994298:0;cd ma
+: 1636994300:0;cd maCopie
+: 1636994301:0;ls
+: 1636994303:0;clear
+: 1636994316:0;mkdir server && npx create-next-app web --ts
+: 1636994435:0;clear
+: 1636994440:0;cd web
+: 1636994441:0;ls
+: 1636994442:0;clear
+: 1636994443:0;code .
+: 1636994684:0;npm install -D tailwindcss@latest postcss@latest autoprefixer@latest\
+
+: 1636994698:0;npx tailwindcss init -p\
+
+: 1636994728:0;cd Dev
+: 1636994729:0;ls
+: 1636994730:0;cd aternosClone
+: 1636994731:0;ls
+: 1636994732:0;cd ..
+: 1636994735:0;cd Dev
+: 1636994735:0;ls
+: 1636994742:0;cd bonneOffre
+: 1636994743:0;ls
+: 1636994745:0;cd admin
+: 1636994745:0;ls
+: 1636994747:0;cd ..
+: 1636994748:0;ls
+: 1636994750:0;cd crid
+: 1636994751:0;ls
+: 1636994752:0;cd ap
+: 1636994754:0;cd app
+: 1636994754:0;ls
+: 1636994757:0;cd ..
+: 1636994758:0;cd server
+: 1636994759:0;ls
+: 1636994762:0;cd src
+: 1636994762:0;ls
+: 1636994764:0;ls -a
+: 1636994768:0;cd ..
+: 1636994768:0;la
+: 1636994806:0;mv .prettierrc ../../maCopie/web && mv .prettierrc ../../maCopie/server && cd ../../maCopie
+: 1636994807:0;ls
+: 1636994820:0;mv -r .prettierrc ../../maCopie/web && mv -r .prettierrc ../../maCopie/server && cd ../../maCopie
+: 1636994838:0;ls 
+: 1636994839:0;la -a
+: 1636994864:0;cd ..
+: 1636994865:0;ls
+: 1636994867:0;cd app
+: 1636994867:0;ls
+: 1636994869:0;ls -a
+: 1636994872:0;code .
+: 1636994918:0;mv prettier ../../maCopie/web && mv prettier ../../maCopie/server
+: 1636994919:0;cd
+: 1636994926:0;clear
+: 1636994928:0;ls
+: 1636994928:0;la
+: 1636994932:0;clear
+: 1636995311:0;sudo pacman -S vercel
+: 1636995317:0;clear
+: 1636995460:0;sudo su
+: 1636995536:0;cd ../server
+: 1636995536:0;ls
+: 1636995538:0;code .
+: 1636995547:0;clear
+: 1636995551:0;npm init -y
+: 1636995554:0;clear
+: 1636995689:0;yarn add express mongoose chalk lodash validator && yarn add --dev typescript @types/node @types/express @types/mongoose @types/chalk @types/lodash @types/validator
+: 1636995778:0;yarn add bcrypt jest uuid jsonwebtoken date-fns && yarn add --dev @types/bcrypt @types/jest @types/uuid @types/jsonwebtoken @types/date-fns
+: 1636995842:0;clear
+: 1636995864:0;cd Dev
+: 1636995864:0;ls
+: 1636995869:0;cd maCopie
+: 1636995870:0;ls
+: 1636995871:0;clear
+: 1636995872:0;cd server
+: 1636995872:0;ls
+: 1636995873:0;clear
+: 1636995904:0;mkdir src && cd src && mkdir router database controllers helpers
+: 1636995912:0;yarn add dotenv && yarn add --dev @types/dotenv
+: 1636995962:0;cd ..
+: 1636995964:0;ls
+: 1636995965:0;cd web
+: 1636995966:0;ls
+: 1636995973:0;mv .prettierrc ../server
+: 1636995977:0;cd ../server
+: 1636996009:0;yarn add morgan && yarn add --dev @types/morgan
+: 1636996950:0;cd ..
+: 1636996952:0;cd aternosClone
+: 1636996953:0;ls
+: 1636996955:0;cd api
+: 1636996956:0;ls
+: 1636996957:0;code .
+: 1636996995:0;cd ..
+: 1636996996:0;clear
+: 1636996997:0;ls
+: 1636997000:0;cd bonneOffre
+: 1636997000:0;ls
+: 1636997001:0;clear
+: 1636997002:0;ls
+: 1636997003:0;clear
+: 1636997005:0;cd server && code .
+: 1636997022:0;cd ..
+: 1636997024:0;la
+: 1636997030:0;cd crid
+: 1636997030:0;ls
+: 1636997032:0;cd server
+: 1636997032:0;ls
+: 1636997033:0;code .
+: 1637007059:0;ls
+: 1637007061:0;cd Dev
+: 1637007061:0;ls
+: 1637007066:0;clear
+: 1637007069:0;cd learn
+: 1637007072:0;mkdir learn && cd learn
+: 1637007073:0;clear
+: 1637007075:0;code .
+: 1637016275:0;shutdown now
+: 1637159741:0;clear
+: 1637159931:0;ssh -p 22 ubuntu@192.168.0.134
+: 1637160053:0;loadkeys fr
+: 1637160057:0;setxkbmap fr
+: 1637160062:0;clear
+: 1637160064:0;ssh 
+: 1637160111:0;sudo su
+: 1637160143:0;snap install putty-gtk --edge
+: 1637160149:0;sudo snap install putty-gtk --edge
+: 1637160156:0;sudo snap install putty-gtk --edge --devmode
+: 1637160260:0;clear
+: 1637160284:0;cd .ssh
+: 1637160325:0;ssh ubuntu@192.168.0.134
+: 1637160371:0;ping 192.168.0.134
+: 1637160378:0;ping 192.168.0.136
+: 1637160450:0;setxkbmap fr
+: 1637160452:0;clear
+: 1637160466:0;ssh -p 22 ubuntu@192.168.0.134/34
+: 1637160469:0;ssh -p 22 ubuntu@192.168.0.134/2
+: 1637160470:0;ssh -p 22 ubuntu@192.168.0.134/22
+: 1637160474:0;ssh -p 22 ubuntu@192.168.0.134
+: 1637160500:0;clear
+: 1637160508:0;cl ear
+: 1637160509:0;clear
+: 1637160513:0;c lcea
+: 1637160514:0;clear
+: 1637160597:0;reboot
+: 1637162283:0;clear
+: 1637162285:0;cd Dev
+: 1637162285:0;ls
+: 1637162306:0;cd ma
+: 1637162308:0;cd math
+: 1637162308:0;ls
+: 1637162312:0;clear
+: 1637162313:0;cd ..
+: 1637162315:0;ls
+: 1637162316:0;cd ..
+: 1637162316:0;ls
+: 1637162322:0;cd Dev
+: 1637162322:0;ls
+: 1637162324:0;cd cmath
+: 1637162325:0;ls
+: 1637162327:0;code .
+: 1637162953:0;clear
+: 1637162954:0;cd ..
+: 1637162962:0;mkdir bestmath
+: 1637162964:0;cd bestmath
+: 1637162964:0;ls
+: 1637162965:0;clear
+: 1637162970:0;code .
+: 1637166759:0;clear
+: 1637166761:0;celar
+: 1637166763:0;clear
+: 1637170393:0;./ma
+: 1637172650:0;ma
+: 1637172653:0;./ma
+: 1637172667:0;~/Dev/bestmath/ma
+: 1637172771:0;cd "/home/keclyon/Dev/bestmath/" && g++ ma.cpp -o ma && "/home/keclyon/Dev/bestmath/"ma
+: 1637173247:0;clear
+: 1637173249:0;cd "/home/keclyon/Dev/bestmath/" && g++ ma.cpp -o ma && "/home/keclyon/Dev/bestmath/"ma
+: 1637173370:0;cleaf
+: 1637173371:0;clear
+: 1637173373:0;cd "/home/keclyon/Dev/bestmath/" && g++ ma.cpp -o ma && "/home/keclyon/Dev/bestmath/"ma
+: 1637173515:0;shutdown now
+: 1637314051:0;cd Dev
+: 1637314053:0;cd cmath
+: 1637314053:0;ls
+: 1637314066:0;cd ..
+: 1637314067:0;ls
+: 1637314074:0;cd ..
+: 1637314074:0;ls
+: 1637314079:0;cd Dev
+: 1637314080:0;ls
+: 1637314082:0;cd bestmath
+: 1637314083:0;ls
+: 1637314084:0;code .
+: 1637316946:0;reboot
+: 1637331945:0;cd Dev
+: 1637331945:0;ls
+: 1637331947:0;clear
+: 1637331949:0;cd bestmath
+: 1637331949:0;ls
+: 1637331951:0;clear
+: 1637331973:0;ls
+: 1637331981:0;code .
+: 1637332085:0;shutdown now
+: 1637332971:0;cd Dev/bestmath
+: 1637332972:0;ls
+: 1637332972:0;celar
+: 1637332973:0;clear
+: 1637332974:0;code .
+: 1637338032:0;node
+: 1637338078:0;reboot
+: 1637350189:0;clear
+: 1637350192:0;cd Dev/bestmath
+: 1637350193:0;ls
+: 1637350194:0;clear
+: 1637350196:0;code .
+: 1637350229:0;clear
+: 1637350238:0;chmod +x run.sh
+: 1637350239:0;ls
+: 1637350240:0;./run.sh
+: 1637357753:0;cd dist
+: 1637357757:0;./main
+: 1637357967:0;reboot
+: 1637403993:0;cd Dev
+: 1637403994:0;ls
+: 1637403994:0;celar
+: 1637403995:0;clear
+: 1637403997:0;cd bestmath
+: 1637403997:0;ls
+: 1637403998:0;clear
+: 1637403999:0;code 
+: 1637404006:0;code .
+: 1637404053:0;./run.sh
+: 1637406076:0;reboot
+: 1637419092:0;clear
+: 1637419096:0;cd Dev/bestmath
+: 1637419097:0;ls
+: 1637419098:0;code .
+: 1637419259:0;./run.sh
+: 1637419265:0;mv ./run.sh run.sh
+: 1637419269:0;mv ./run.sh run
+: 1637419271:0;ls
+: 1637419272:0;./run
+: 1637423318:0;reboot
+: 1637488203:0;cd Dev/bestmath
+: 1637488203:0;ls
+: 1637488204:0;clear
+: 1637488205:0;code .
+: 1637488357:0;./run
+: 1637491035:0;reboot
+: 1637518584:0;clear
+: 1637518587:0;cd Dev/bestmath
+: 1637518588:0;ls
+: 1637518588:0;clear
+: 1637518589:0;code 
+: 1637518656:0;./run
+: 1637520809:0;echo test
+: 1637520931:0;./run
+: 1637522256:0;echo
+: 1637522679:0;./run
+: 1637527846:0;node
+: 1637528059:0;./run
+: 1637530024:0;reboot
+: 1637532246:0;cd Dev/bestmath
+: 1637532247:0;ls
+: 1637532248:0;code .
+: 1637532366:0;./run
+: 1637532395:0;cd production
+: 1637532396:0;ls
+: 1637532398:0;cd data
+: 1637532399:0;ls
+: 1637532399:0;clear
+: 1637532405:0;mkdir multiplications graph
+: 1637532456:0;cd ..
+: 1637532457:0;./main
+: 1637532480:0;cd ..
+: 1637532482:0;./run
+: 1637532498:0;cd production
+: 1637532498:0;ls
+: 1637532501:0;./main
+: 1637532938:0;cd ..
+: 1637532939:0;ls
+: 1637532940:0;./run
+: 1637532947:0;cd production
+: 1637532948:0;ls
+: 1637532950:0;./main
+: 1637533290:0;../compile
+: 1637533295:0;chmod +x ../compile
+: 1637533297:0;../compile
+: 1637533300:0;cd ..
+: 1637533301:0;./compile
+: 1637533305:0;cd production
+: 1637533305:0;ls
+: 1637533307:0;./main
+: 1637533330:0;node
+: 1637533375:0;./main
+: 1637533395:0;cd .. && ./compile && cd production
+: 1637533402:0;./main
+: 1637533434:0;../compile
+: 1637533445:0;./main
+: 1637533498:0;../compile
+: 1637533500:0;./main
+: 1637533558:0;node
+: 1637533827:0;../compile
+: 1637533829:0;./main
+: 1637533878:0;../compile
+: 1637533880:0;./main
+: 1637533901:0;node
+: 1637533928:0;../compile
+: 1637533929:0;ls
+: 1637533931:0;./main
+: 1637533945:0;rm -r multiplications/*
+: 1637533950:0;sudo rm -r multiplications/*
+: 1637533957:0;sudo rm -r ./multiplications/*
+: 1637533970:0;../compile
+: 1637533975:0;./main
+: 1637533987:0;clear
+: 1637534013:0;../compile
+: 1637534016:0;./main
+: 1637534075:0;../compile
+: 1637534078:0;./main
+: 1637534125:0;../compile
+: 1637534132:0;./main
+: 1637534161:0;../compile
+: 1637534200:0;clear
+: 1637534201:0;../compile
+: 1637534212:0;clear
+: 1637534267:0;../compile
+: 1637534268:0;clear
+: 1637534270:0;./main
+: 1637534274:0;ls
+: 1637534276:0;cd data
+: 1637534276:0;ls
+: 1637534278:0;cd multiplications
+: 1637534278:0;ls
+: 1637534282:0;rm -r *
+: 1637534289:0;ls
+: 1637534289:0;clear
+: 1637534290:0;cd ..
+: 1637534293:0;./main
+: 1637534304:0;cd data/multiplications
+: 1637534304:0;ls
+: 1637534307:0;rm -r *
+: 1637534309:0;clear
+: 1637534310:0;cd ..
+: 1637534310:0;ls
+: 1637534316:0;cd ..
+: 1637534316:0;ls
+: 1637534364:0;clear
+: 1637534365:0;./main
+: 1637534422:0;../compile
+: 1637534425:0;./main
+: 1637534449:0;clear
+: 1637534451:0;./main
+: 1637534453:0;clear
+: 1637534502:0;cd Dev/bestmath/production
+: 1637534503:0;ls
+: 1637534504:0;cd data
+: 1637534505:0;ls
+: 1637534507:0;cd multiplications
+: 1637534511:0;clear
+: 1637534512:0;ls
+: 1637534523:0;cat multiplication_20.txt | less
+: 1637534941:0;ls
+: 1637534955:0;cat multiplication_24.txt
+: 1637534959:0;cat multiplication_24.txt | less
+: 1637535088:0;node
+: 1637535112:0;cd ..
+: 1637535159:0;node messi.js
+: 1637535337:0;setxkbmap fr
+: 1637535343:0;brightnessctl --help
+: 1637535350:0;brightnessctl set 10
+: 1637535352:0;brightnessctl set 0
+: 1637563762:0;setxkbmap fr
+: 1637563807:0;reboot
+: 1637563944:0;cd Dev/bestmath/production
+: 1637563944:0;ls
+: 1637563945:0;clear
+: 1637563946:0;cd data
+: 1637563946:0;ls
+: 1637563947:0;code ;
+: 1637564023:0;cd graph
+: 1637564023:0;ls
+: 1637564025:0;cd ..
+: 1637564026:0;cd multiplications
+: 1637564026:0;ls
+: 1637564027:0;clear
+: 1637564028:0;ls -la
+: 1637564045:0;cd /run/media
+: 1637564045:0;ls
+: 1637564046:0;cd keclyon
+: 1637564047:0;ls
+: 1637564047:0;c d
+: 1637564049:0;cd KHACHANI
+: 1637564049:0;ls
+: 1637564055:0;cat autorun.inf
+: 1637564061:0;cd autorun.inf
+: 1637564061:0;ls
+: 1637564063:0;cd Protection\ for\ Autorun
+: 1637564063:0;ls
+: 1637564065:0;ls -a
+: 1637564067:0;cd ..
+: 1637564068:0;ls -a
+: 1637564069:0;cd ..
+: 1637564070:0;ls
+: 1637564076:0;rm -r autorun.inf
+: 1637564078:0;clear
+: 1637564121:0;mkdir multiplications && cp -r /home/keclyon/Dev/bestmath/production/data .
+: 1637564132:0;ls
+: 1637564134:0;cd data
+: 1637564135:0;ls
+: 1637564137:0;cd multiplications
+: 1637564137:0;ls
+: 1637564140:0;clear
+: 1637564148:0;reboot
+: 1637598257:0;cd Dev/bestmath
+: 1637598258:0;ls
+: 1637598260:0;cd production
+: 1637598260:0;ls
+: 1637598264:0;cd data/multiplications
+: 1637598264:0;ls
+: 1637598276:0;cat multiplication_3.txt | less
+: 1637598281:0;clear
+: 1637598283:0;cd ..
+: 1637598408:0;code 
+: 1637598722:0;clear
+: 1637598724:0;node
+: 1637598733:0;exit
+: 1637598849:0;clear
+: 1637598851:0;node messi.js
+: 1637599190:0;cd production
+: 1637599190:0;ls
+: 1637599205:0;../compile
+: 1637599208:0;./main
+: 1637599227:0;../compile
+: 1637599230:0;./main
+: 1637599613:0;../compile
+: 1637599615:0;./main
+: 1637600972:0;cd ..
+: 1637600980:0;cp -r bestmath /run/media/keclyon
+: 1637600987:0;cp -r bestmath /run/media/keclyon/KHACHANI/
+: 1637601000:0;cd /run/media/keclyon/KHACHANI
+: 1637601000:0;ls
+: 1637601004:0;cd bestmath
+: 1637601005:0;ls
+: 1637601008:0;reboot
+: 1637859170:0;cd Dev
+: 1637859179:0;mkdir mathrecords && cd mathrecords
+: 1637859181:0;clear
+: 1637859193:0;mkdir rootsqrtof2
+: 1637859193:0;cd rootsqrtof2
+: 1637859194:0;ls
+: 1637859194:0;clear
+: 1637859198:0;code .
+: 1637859331:0;chmod +x run
+: 1637859332:0;./run
+: 1637859334:0;clear
+: 1637859357:0;chmod +x compile
+: 1637859391:0;reboot
+: 1639421523:0;clear
+: 1639421526:0;sudo su
+: 1639421540:0;g
+: 1639421542:0;clear
+: 1639421544:0;gc
+: 1639421546:0;clear
+: 1639421668:0;g++ -v
+: 1639421800:0;pacman -Syu gcc
+: 1639421920:0;cd Dev
+: 1639421920:0;ls
+: 1639421921:0;clear
+: 1639421923:0;cd bestmath
+: 1639421923:0;ls
+: 1639421926:0;cd ..
+: 1639421928:0;ls
+: 1639421931:0;mkdir math
+: 1639421932:0;cd math
+: 1639421935:0;ls
+: 1639421936:0;clear
+: 1639421943:0;mkdir sqrt2
+: 1639421945:0;cd sqrt2
+: 1639421955:0;cd ..
+: 1639421956:0;cd .;
+: 1639421956:0;ls
+: 1639421958:0;cd ..
+: 1639421959:0;ls
+: 1639421959:0;celar
+: 1639421962:0;clear
+: 1639421965:0;cd math
+: 1639421966:0;ls
+: 1639421967:0;cd
+: 1639421972:0;cd math/sqrt2
+: 1639421975:0;ls
+: 1639421976:0;code .
+: 1639421992:0;clear
+: 1639421996:0;cd Dev
+: 1639421996:0;ls
+: 1639421998:0;clear
+: 1639422000:0;clera
+: 1639422001:0;clear
+: 1639422008:0;cd cmath
+: 1639422008:0;ls
+: 1639422020:0;cp -r . /home/keclyon/math/sqrt2 
+: 1639424598:0;cd Dev
+: 1639424598:0;ls
+: 1639424601:0;clear
+: 1639424602:0;cd bestmath
+: 1639424602:0;ls
+: 1639424604:0;clear
+: 1639424606:0;cd .;
+: 1639424607:0;ls
+: 1639424608:0;cd ..
+: 1639424608:0;ls
+: 1639424609:0;clear
+: 1639424609:0;sl
+: 1639424612:0;cd cmath
+: 1639424612:0;ls
+: 1639424612:0;clear
+: 1639424613:0;code .
+: 1639424626:0;clear
+: 1639424626:0;sl
+: 1639424627:0;clear
+: 1639424629:0;ls
+: 1639424631:0;cd .
+: 1639424632:0;ls
+: 1639424633:0;cd ..
+: 1639424634:0;ls
+: 1639424640:0;cd bestmath
+: 1639424641:0;ls
+: 1639424643:0;code .
+: 1639425120:0;shutdown now
+: 1642182971:0;clear
+: 1642182979:0;reboot
+: 1644677610:0;	cls
+: 1644677613:0;clear
+: 1644677617:0;ls
+: 1644677619:0;la
+: 1644677620:0;cls
+: 1644677622:0;clear
+: 1644677632:0;cat .zshrc
+: 1644677665:0;cat .zsh_history
+: 1644677671:0;clear
+: 1644677674:0;cd Dev
+: 1644677675:0;ls
+: 1644677677:0;cd bestmath
+: 1644677677:0;ls
+: 1644677679:0;code .
+: 1644678352:0;reboot
+: 1645806511:0;clear
+: 1645806515:0;thunar .
+: 1645806710:0;cls
+: 1645806711:0;clear
+: 1645806713:0;ls -la
+: 1645806716:0;la
+: 1645806721:0;ls -l
+: 1645806724:0;sudo su
+: 1645806757:0;cls
+: 1645806758:0;clear
+: 1645806761:0;ls -a
+: 1645806765:0;cd .local
+: 1645806765:0;ls
+: 1645806767:0;cd share
+: 1645806767:0;ls
+: 1645806788:0;cls
+: 1645806789:0;clear
+: 1645806918:0;sudo su
+: 1645806951:0;cs
+: 1645806952:0;cd
+: 1645806953:0;clear
+: 1645806956:0;ls -a
+: 1645806964:0;ls -a | grep zsh
+: 1645806972:0;cat .zshrc
+: 1645806979:0;cat .zshrc | grep alias
+: 1645806990:0;ls -a | grep zsh
+: 1645806999:0;cat .p10k.zsh
+: 1645807002:0;cat .p10k.zsh | grep alias
+: 1645807008:0;ls -a | grep zsh
+: 1645807017:0;cat .zshrc.pre-oh-my-zsh
+: 1645807024:0;cat .oh-my-zsh
+: 1645807031:0;cat .shell.pre-oh-my-zsh
+: 1645807039:0;cat .bashrc
+: 1645807046:0;ls -a | grep bash
+: 1645807051:0;cat .bash_profile
+: 1645807057:0;cat .bashrc
+: 1645807059:0;cls
+: 1645807060:0;clear
+: 1645807319:0;nano .zshrc
+: 1645807511:0;cls
+: 1645807512:0;clear
+: 1645807515:0;nano .zshrc
+: 1645807527:0;clear
+: 1645807528:0;cls
+: 1645807529:0;clear
+: 1645807557:0;source ~/.zshrc
+: 1645807558:0;cls
+: 1645807560:0;clear
+: 1645807564:0;la
+: 1645807565:0;cls
+: 1645807566:0;lla
+: 1645807568:0;cls
+: 1645807569:0;la
+: 1645807569:0;clear
+: 1645807576:0;ga
+: 1645807579:0;cls
+: 1645807582:0;cat .bashrc
+: 1645807586:0;ls
+: 1645807590:0;cls
+: 1645807592:0;ls -a
+: 1645807597:0;cd .config
+: 1645807598:0;ls
+: 1645807599:0;la
+: 1645807607:0;cd ..
+: 1645807608:0;cls
+: 1645807609:0;clear
+: 1645807610:0;cd Dev
+: 1645807610:0;ls
+: 1645807615:0;cd startups
+: 1645807616:0;ls
+: 1645807618:0;mkdir chess
+: 1645807620:0;cd chess
+: 1645807636:0;yarn create next-app --typescript\
+
+: 1645807734:0;cd web
+: 1645807735:0;ls
+: 1645807737:0;clear
+: 1645807738:0;code .
+: 1645807812:0;cls
+: 1645807816:0;bluetoothctl
+: 1645807882:0;cls
+: 1645807887:0;pulseaudio
+: 1645807891:0;pulseaudio -d
+: 1645807913:0;cls
+: 1645807984:0;yarn add sass
+: 1645807992:0;yarn add --dev @types/sass
+: 1645808036:0;yarn dev
+: 1645808517:0;xdg-open
+: 1645808519:0;xdg-open &
+: 1645808523:0;exit
+: 1645808542:0;cd Dev/startups
+: 1645808543:0;ls
+: 1645808545:0;cd chess/web
+: 1645808546:0;cls
+: 1645808546:0;clear
+: 1645808579:0;cls
+: 1645808580:0;clear
+: 1645808638:0;cls
+: 1645812344:0;yarn dev
+: 1645819671:0;bluetoothctl
+: 1645839060:0;shutdown now
+: 1645868094:0;cd Dev
+: 1645868094:0;ls
+: 1645868096:0;clear
+: 1645868104:0;cd startups/chess/web && code . && yarn dev
+: 1645871856:0;node
+: 1645871892:0;cls
+: 1645871923:0;bluetoothctl
+: 1645871964:0;cls
+: 1645871974:0;bluetoothctl
+: 1645872316:0;systemctl stop bluetooth
+: 1645872326:0;systemctl start bluetooth
+: 1645872335:0;sudo su
+: 1645872355:0;cls
+: 1645872358:0;bluetoothctl
+: 1645872434:0;reboot
+: 1645872515:0;bluetoothctl
+: 1645872678:0;pavucontrol -k
+: 1645872683:0;pavucontrol --help
+: 1645872689:0;reboot
+: 1645874648:0;cd Dev/startups/chess
+: 1645874649:0;ls
+: 1645874650:0;cd web
+: 1645874651:0;ls
+: 1645874652:0;clear
+: 1645874653:0;code .
+: 1645874659:0;yarn ev
+: 1645874662:0;yarn dev
+: 1645897029:0;node
+: 1645897379:0;yarn dev
+: 1645902293:0;reboot
+: 1645985867:0;cls
+: 1645985869:0;bluetoothctl
+: 1645985929:0;ping google.com
+: 1645985940:0;cls
+: 1645985992:0;cd .config
+: 1645985993:0;ls
+: 1645985995:0;cd qt
+: 1645985997:0;cd qtile
+: 1645985998:0;ls
+: 1645985999:0;clear
+: 1645986000:0;code .
+: 1645986066:0;ipaddr
+: 1645986074:0;ip
+: 1645986206:0;nm-applet &
+: 1645986214:0;nmcli
+: 1645986223:0;nmcli connection show
+: 1645986231:0;nmcli help
+: 1645986273:0;nmcli dev wifi list
+: 1645986285:0;nmcli dev status
+: 1645986382:0;reboot
+: 1645986418:0;ping googe.com
+: 1645986423:0;ping google.com
+: 1645986429:0;bluetoothctl
+: 1645986503:0;cd .config
+: 1645986504:0;ls
+: 1645986510:0;code qtile
+: 1645986559:0;ip link enp60s0 up
+: 1646002750:0;ping google.com
+: 1646002763:0;shutdown now
+: 1646068387:0;bluetoothctl
+: 1646068422:0;ping google.com
+: 1646068431:0;exit
+: 1646068610:0;cd Dev/startups/chess/web
+: 1646068610:0;cls
+: 1646068611:0;clear
+: 1646068615:0;yarn add chess
+: 1646068625:0;yarn remove chess
+: 1646068633:0;yarn add chess.js && yarn add --dev @types/chess.js
+: 1646068645:0;code .
+: 1646068677:0;cd ..
+: 1646068691:0;yarn create-react-app --ts
+: 1646068762:0;yarn create react-app --template typescript
+: 1646068769:0;ls
+: 1646068774:0;yarn create react-app web2 --template typescript
+: 1646068875:0;bluetoothctl
+: 1646068906:0;exit
+: 1646068909:0;code .
+: 1646068915:0;cd web2
+: 1646068915:0;ls
+: 1646068916:0;clear
+: 1646068917:0;code .
+: 1646069001:0;yarn dev
+: 1646069003:0;yarn start
+: 1646069407:0;cd Dev/startups/chess/web
+: 1646069408:0;code .
+: 1646069714:0;cd ..
+: 1646069719:0;rm -r web
+: 1646069725:0;cls
+: 1646069729:0;rm -rf web2
+: 1646069730:0;ls
+: 1646069731:0;clear
+: 1646069738:0;yarn create next-app web2 --ts
+: 1646069771:0;cd web2
+: 1646069772:0;cls
+: 1646069773:0;ls
+: 1646069777:0;ls pages
+: 1646069778:0;cls
+: 1646069779:0;code .
+: 1646069969:0;cd ..
+: 1646069970:0;cd web
+: 1646069971:0;ls
+: 1646069972:0;clear
+: 1646069972:0;ls
+: 1646069974:0;ls -a
+: 1646069976:0;cd ..
+: 1646069977:0;cls
+: 1646069991:0;tr
+: 1646069992:0;cls
+: 1646069997:0;clear
+: 1646070055:0;cd
+: 1646070057:0;cd .local
+: 1646070057:0;ls
+: 1646070059:0;cd bin
+: 1646070060:0;ls
+: 1646070062:0;cd ..
+: 1646070062:0;ls
+: 1646070064:0;cd lib
+: 1646070064:0;ls
+: 1646070066:0;cd ..
+: 1646070067:0;cd share
+: 1646070067:0;ls
+: 1646070072:0;cd Trash
+: 1646070073:0;ls
+: 1646070075:0;cd files
+: 1646070075:0;ls
+: 1646070084:0;ls | grep tsc
+: 1646070085:0;ls | grep tsx
+: 1646070087:0;cd ..
+: 1646070088:0;cd info
+: 1646070088:0;ls
+: 1646070099:0;ls | grep tsx
+: 1646070102:0;cd ..
+: 1646070103:0;ls
+: 1646070104:0;cd .;
+: 1646070105:0;ls
+: 1646070106:0;cd ..
+: 1646070106:0;ls
+: 1646070117:0;cd ..
+: 1646070118:0;ls
+: 1646070120:0;cd ..
+: 1646070121:0;cd /tmp
+: 1646070122:0;ls
+: 1646070136:0;cd yarn--1646068
+: 1646070139:0;cd yarn--1646068767942-0.34552536959903124
+: 1646070140:0;ls
+: 1646070142:0;cd node
+: 1646070143:0;cd ..
+: 1646070228:0;cd
+: 1646070231:0;cls
+: 1646070258:0;cd Dev
+: 1646070259:0;ls
+: 1646070262:0;ls /
+: 1646070265:0;ls /lib
+: 1646070268:0;cd /
+: 1646070270:0;ls 
+: 1646070275:0;cd null
+: 1646070279:0;cd tmp
+: 1646070280:0;ls
+: 1646070282:0;cd ..
+: 1646070283:0;ls
+: 1646070285:0;sudo su
+: 1646070351:0;cd
+: 1646070352:0;ls
+: 1646070353:0;clear
+: 1646070354:0;cd Dev
+: 1646070355:0;ls
+: 1646070360:0;cd old_projects
+: 1646070361:0;ls
+: 1646070362:0;cd bonneOffre
+: 1646070363:0;ls
+: 1646070365:0;cd server
+: 1646070366:0;ls
+: 1646070369:0;ls -a
+: 1646070372:0;cd ..
+: 1646070373:0;ls
+: 1646070375:0;cd web
+: 1646070375:0;ls
+: 1646070377:0;ls -a
+: 1646070378:0;cd ..
+: 1646070380:0;ls
+: 1646070382:0;cd old_projects
+: 1646070382:0;ld
+: 1646070383:0;ls
+: 1646070385:0;cd aternosClone
+: 1646070385:0;ls
+: 1646070387:0;cd api
+: 1646070387:0;ls
+: 1646070390:0;cd ..
+: 1646070392:0;ls
+: 1646070397:0;cd chess
+: 1646070397:0;ls
+: 1646070399:0;cd web
+: 1646070399:0;ls
+: 1646070402:0;ls -a
+: 1646070407:0;cd ..
+: 1646070409:0;ls
+: 1646070411:0;cd bo
+: 1646070413:0;cd bos
+: 1646070413:0;ls
+: 1646070415:0;cd bos
+: 1646070416:0;ls
+: 1646070417:0;ls -a
+: 1646070435:0;mv .prettierrc ~/Dev/startups/chess/web2/
+: 1646070438:0;cd 
+: 1646070443:0;cd Dev/startups/chess/web2
+: 1646070443:0;ls
+: 1646072071:0;yarn add chess.js
+: 1646072081:0;yarn add --dev @types/chess.js
+: 1646072169:0;cd ..
+: 1646072173:0;mkdir tests && cd tests
+: 1646072174:0;ls
+: 1646072175:0;clear
+: 1646072176:0;code .
+: 1646072182:0;npm init -y
+: 1646072182:0;cls
+: 1646072183:0;clear
+: 1646072186:0;npm i chess.js
+: 1646072248:0;node .
+: 1646072441:0;cd ../web2
+: 1646072442:0;cls
+: 1646072443:0;clear
+: 1646072553:0;code ../tests
+: 1646072616:0;node .
+: 1646073022:0;npm i chess
+: 1646073052:0;node .
+: 1646073701:0;yarn add chess
+: 1646073949:0;node .
+: 1646074044:0;node ches.js
+: 1646074127:0;node .
+: 1646074322:0;reboot
+: 1646158228:0;cd Dev
+: 1646158229:0;ls
+: 1646158232:0;cd startups/chess
+: 1646158232:0;ls
+: 1646158233:0;clear
+: 1646158235:0;cd web2
+: 1646158236:0;lc
+: 1646158236:0;ls
+: 1646158238:0;code ;
+: 1646158308:0;node .
+: 1646159034:0;reboot
+: 1646159075:0;ping google.com
+: 1646159157:0;cls
+: 1646159158:0;clear
+: 1646159177:0;cd Dev/startups
+: 1646159177:0;ls
+: 1646159178:0;cd chess
+: 1646159178:0;ls
+: 1646159179:0;clear
+: 1646159180:0;cd web2
+: 1646159180:0;ls
+: 1646159183:0;code
+: 1646159194:0;ndoe .
+: 1646159196:0;node .
+: 1646159212:0;clear
+: 1646159214:0;node .
+: 1646160382:0;yarn remove chess @types/chess && yarn add chess.js && yarn add --dev @types/chess.js
+: 1646160393:0;yarn remove chess  && yarn add chess.js && yarn add --dev @types/chess.js
+: 1646174486:0;shutdown now
+: 1646220486:0;cd Dev
+: 1646220486:0;ls
+: 1646220489:0;cd math
+: 1646220489:0;ls
+: 1646220491:0;clear
+: 1646220493:0;mkdir resolver
+: 1646220495:0;cd resolver
+: 1646220496:0;ls
+: 1646220497:0;code .
+: 1646220542:0;python3 main.py
+: 1646221233:0;cls
+: 1646221236:0;python3 main.py
+: 1646222243:0;reboot
+: 1646222392:0;cls
+: 1646222393:0;clear
+: 1646222394:0;cd Dev
+: 1646222394:0;ls
+: 1646222395:0;cd startups
+: 1646222396:0;ls
+: 1646222397:0;cd chess
+: 1646222397:0;ls
+: 1646222398:0;clear
+: 1646222399:0;cd web2
+: 1646222399:0;lc
+: 1646222400:0;ls
+: 1646222401:0;clear
+: 1646222401:0;code .
+: 1646222620:0;code ../tests
+: 1646222630:0;node ches.js
+: 1646224034:0;reboot
+: 1646233395:0;cd DEz
+: 1646233397:0;cd Dev
+: 1646233397:0;ls
+: 1646233398:0;clear
+: 1646233400:0;clera
+: 1646233401:0;clear
+: 1646233408:0;cd startups/chess/web2
+: 1646233409:0;clear
+: 1646233409:0;code .
+: 1646233786:0;reboot now
+: 1646233790:0;reboot
+: 1646419406:0;cd Dev
+: 1646419406:0;ls
+: 1646419408:0;clear
+: 1646419409:0;cd startups
+: 1646419410:0;ls
+: 1646419410:0;clear
+: 1646419412:0;cd chess
+: 1646419412:0;ls
+: 1646419413:0;clear
+: 1646419415:0;cd web2
+: 1646419416:0;ls
+: 1646419420:0;code .
+: 1646419491:0;reboot
+: 1646480089:0;clear
+: 1646480095:0;cd Dev/startups/chess/web2
+: 1646480096:0;clear
+: 1646480097:0;clera
+: 1646480098:0;clear
+: 1646480099:0;code .
+: 1646480192:0;reboot
+: 1646493356:0;clear
+: 1646493357:0;clar
+: 1646493358:0;clear
+: 1646493359:0;cd Dev
+: 1646493359:0;ls
+: 1646493361:0;cd startups
+: 1646493362:0;ls
+: 1646493362:0;clear
+: 1646493363:0;cd chess
+: 1646493363:0;ls
+: 1646493364:0;clear
+: 1646493367:0;mkdir chessEngine
+: 1646493368:0;clear
+: 1646493369:0;code .
+: 1646493378:0;cd en
+: 1646493381:0;ls
+: 1646493386:0;mv chessEngine engine
+: 1646493386:0;clear
+: 1646493387:0;ls
+: 1646493388:0;clear
+: 1646493389:0;cd engine
+: 1646493389:0;ls
+: 1646493390:0;clear
+: 1646493396:0;mkdir v1
+: 1646493397:0;clear
+: 1646493398:0;cd v1
+: 1646493399:0;ls
+: 1646493400:0;clear
+: 1646493457:0;npm init -y && yarn && yarn add --save-dev typescript @types/chalk tsc-watch ts-node-dev @types/node
+: 1646493475:0;yarn add --save-dev typescript tsc-watch ts-node-dev @types/node
+: 1646493546:0;clear
+: 1646493548:0;code .
+: 1646493554:0;npx tsc --init
+: 1646493566:0;yarn add --save-dev tsc
+: 1646493576:0;yarn add tsc
+: 1646493578:0;clear
+: 1646493599:0;yarn run tsc -- --init
+: 1646493603:0;yarn tsc -- --init
+: 1646493614:0;yarn add typescript
+: 1646493631:0;yarn tsc -- --init
+: 1646493680:0;yarn build
+: 1646493744:0;yarn add chalk
+: 1646493890:0;shutdown now
+: 1648288115:0;clear
+: 1648288117:0;cd Dev
+: 1648288120:0;cd startups
+: 1648288120:0;ls
+: 1648288122:0;clear
+: 1648288124:0;cd chess
+: 1648288124:0;ls
+: 1648288126:0;clear
+: 1648288126:0;cd engine
+: 1648288127:0;ls
+: 1648288128:0;cd v1
+: 1648288128:0;ls
+: 1648288130:0;code .
+: 1648288282:0;cd ..
+: 1648288284:0;ls
+: 1648288285:0;cd chess
+: 1648288285:0;ls
+: 1648288286:0;clear
+: 1648288287:0;ls
+: 1648288289:0;cd we
+: 1648288291:0;cd web2
+: 1648288291:0;claer
+: 1648288293:0;clear
+: 1648288293:0;ls
+: 1648288298:0;la
+: 1648288306:0;cp -r .prettierrc ../engine
+: 1648288311:0;cd ..
+: 1648288313:0;cd en
+: 1648288316:0;cd chess/engine
+: 1648288316:0;ls
+: 1648288319:0;la
+: 1648288327:0;cp -r .prettierrc ./v1
+: 1648288328:0;claer
+: 1648288329:0;clear
+: 1648288330:0;cd v1
+: 1648288331:0;ls
+: 1648288332:0;la
+: 1648288333:0;clear
+: 1648306389:0;cd Dev/startups/chess
+: 1648306390:0;ls
+: 1648306392:0;cd web2
+: 1648306393:0;clear
+: 1648306393:0;code .
+: 1648306434:0;code ../web
+: 1648311611:0;yarn dev
+: 1648311619:0;clear
+: 1648311619:0;cd ..
+: 1648311620:0;cd..
+: 1648311623:0;clear
+: 1648311625:0;yarn dev
+: 1648311908:0;reboot
+: 1648319766:0;clear
+: 1648319768:0;cd Dev
+: 1648319768:0;ls
+: 1648319769:0;cd startups
+: 1648319770:0;ls
+: 1648319771:0;clear
+: 1648319771:0;cd chess
+: 1648319771:0;l
+: 1648319774:0;cd engine
+: 1648319774:0;ls
+: 1648319774:0;clear
+: 1648319775:0;cd v1
+: 1648319775:0;ls
+: 1648319776:0;clear
+: 1648319777:0;code .
+: 1648319892:0;reboot
+: 1648322703:0;clear
+: 1648322703:0;cle ar
+: 1648322704:0;clear
+: 1648322714:0;cd Dev
+: 1648322714:0;ls
+: 1648322717:0;clear
+: 1648322719:0;cd startups
+: 1648322720:0;cd chess
+: 1648322720:0;ls
+: 1648322721:0;celar
+: 1648322721:0;clear
+: 1648322722:0;cd 
+: 1648322731:0;cd Dev/startups/chess/engine && code .
+: 1648322742:0;cd v1
+: 1648322742:0;ls
+: 1648322742:0;celar
+: 1648322743:0;clear
+: 1648322744:0;code .
+: 1648322931:0;reboot
+: 1648329062:0;clear
+: 1648329064:0;cd Dev
+: 1648329064:0;ls
+: 1648329067:0;clear
+: 1648329073:0;cd startups/chess/engine/v1 && code .
+: 1648329096:0;ping google.com
+: 1648329101:0;reboot
+: 1648329146:0;ping google.com
+: 1648329149:0;ifconfig
+: 1648329154:0;if (); fi 
+: 1648329158:0;clear
+: 1648329174:0;la
+: 1648329176:0;cd .config
+: 1648329176:0;ls
+: 1648329177:0;clear
+: 1648329178:0;code qt
+: 1648329187:0;code qtile
+: 1648329264:0;net
+: 1648329272:0;reboot
+: 1648329317:0;ping google.com
+: 1648329564:0;clear
+: 1648329573:0;cd Dev/startups/chess/engine/v1
+: 1648329573:0;ls
+: 1648329575:0;code .
+: 1648330200:0;reboot
+: 1648330382:0;clear
+: 1648330389:0;cd Dev/startups/chess/engine/v1
+: 1648330390:0;ls
+: 1648330391:0;clear
+: 1648330393:0;code .
+: 1648330772:0;clear
+: 1648334367:0;lszzzzzzz&&&&&&&&&&&&&&&&&²²aaeeeeeerrrrrrtttttttttywgssssssssssssssssssssscxqqqqdddfffééééééééééééééé"""ee'(((((èèèèè_________çççoçÃ�Ã�Ã�Ã�Ã�Ã�Ã�Ã�Ã�Ã�Ã�~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+: 1648334371:0;shutdown now
+: 1648375339:0;clear
+: 1648375344:0;cd Dev/startups/chess/engine/v1
+: 1648375345:0;code .
+: 1648375375:0;cd ..
+: 1648375379:0;mkdir tests && cd tests
+: 1648375380:0;claer
+: 1648375381:0;clear
+: 1648375381:0;ls
+: 1648375382:0;clear
+: 1648375384:0;npm init -y
+: 1648375388:0;touch index.js
+: 1648375389:0;clear
+: 1648375401:0;npm i chess.js 
+: 1648375409:0;code .
+: 1648375628:0;npm i chess
+: 1648375650:0;code .
+: 1648375854:0;cd ..
+: 1648375855:0;cd v
+: 1648375857:0;cd v1
+: 1648375858:0;clear
+: 1648375879:0;code .
+: 1648378703:0;reboot
+: 1648378087:0;clear
+: 1648378088:0;celar
+: 1648378088:0;clear
+: 1648378093:0;cd Dev/startups/chess/engine/
+: 1648378094:0;clear
+: 1648378100:0;rm -r tests
+: 1648378101:0;ls
+: 1648378103:0;clear
+: 1648378103:0;cd v1
+: 1648378103:0;ls
+: 1648378104:0;celar
+: 1648378105:0;clear
+: 1648378105:0;code .
+: 1648378295:0;REBOOT
+: 1648378296:0;reboot
+: 1648393668:0;cd Dev/startups/chess/engine/v1
+: 1648393669:0;code .
+: 1648396174:0;yarn tests
+: 1648396177:0;yarn test
+: 1648399669:0;reboot
+: 1649588839:0;clear
+: 1649588840:0;claer
+: 1649588841:0;clear
+: 1649588844:0;cd Dev/startups
+: 1649588845:0;ls
+: 1649588846:0;clear
+: 1649588847:0;cd chess
+: 1649588847:0;ls
+: 1649588848:0;clear
+: 1649588849:0;cd 
+: 1649588854:0;cd Dev/startups/chess
+: 1649588854:0;ls
+: 1649588855:0;clear
+: 1649588860:0;cd engine
+: 1649588861:0;clear
+: 1649588863:0;ls
+: 1649588864:0;cd v1
+: 1649588865:0;ls
+: 1649588866:0;clear
+: 1649588866:0;code .
+: 1650989967:0;clear
+: 1650989968:0;cd Dev
+: 1650989969:0;ls
+: 1650989991:0;clear
+: 1650990132:0;reboot
+: 1651271035:0;clear
+: 1651271168:0;cd De
+: 1651271169:0;cd Dev
+: 1651271170:0;ls
+: 1651271173:0;clear
+: 1651271175:0;ls
+: 1651271178:0;cd startups
+: 1651271178:0;ls
+: 1651271179:0;cl ear
+: 1651271180:0;clear
+: 1651271182:0;mkdir studentslife
+: 1651271183:0;cd 
+: 1651271190:0;cd Dev/startups/studentslife
+: 1651271192:0;mkdir web
+: 1651271193:0;cd web
+: 1651271194:0;clear
+: 1651271197:0;cd ..
+: 1651271201:0;rm -r web
+: 1651271202:0;clear 
+: 1651271202:0;ls
+: 1651271203:0;clear
+: 1651271205:0;cls
+: 1651271216:0;cll
+: 1651271217:0;clear
+: 1651273401:0;shutdown now
+: 1651402808:0;cd Dev/startups
+: 1651402808:0;ls
+: 1651402809:0;cd chess
+: 1651402810:0;ls
+: 1651402811:0;clear
+: 1651402812:0;cd engine
+: 1651402812:0;ls
+: 1651402813:0;clear
+: 1651402814:0;cd v1
+: 1651402815:0;ls
+: 1651402817:0;cd src
+: 1651402817:0;ls
+: 1651402822:0;cd ..
+: 1651402823:0;code .
+: 1651403475:0;l
+: 1651403478:0;cls
+: 1651403479:0;clear
+: 1651406494:0;echo a
+: 1651406498:0;reboot
+: 1651844577:0;cls
+: 1651844578:0;clear
+: 1651844579:0;cd Dev
+: 1651844579:0;ls
+: 1651844580:0;cd startups
+: 1651844581:0;ls
+: 1651844586:0;mkdir sports
+: 1651844586:0;cd s
+: 1651844588:0;cd sports
+: 1651844588:0;ls
+: 1651844589:0;clear
+: 1651844590:0;sl
+: 1651844590:0;ls
+: 1651844591:0;clear
+: 1651844601:0;yarn create react-app web --template typescript
+: 1651844654:0;ls
+: 1651844656:0;la
+: 1651844659:0;clear
+: 1651844691:0;npx create-react-app web --template typescript
+: 1651844725:0;npm uninstall -g create-react-app
+: 1651844729:0;npm install -g create-react-app
+: 1651844746:0;sudo su
+: 1651844792:0;cd Dev/startups/sports
+: 1651844792:0;ls
+: 1651844793:0;clear
+: 1651844794:0;la
+: 1651844795:0;clear
+: 1651844801:0;ls
+: 1651844801:0;clear
+: 1651844805:0;ls
+: 1651844806:0;clear
+: 1651844809:0;celar
+: 1651844810:0;clear
+: 1651844826:0;npx create-react-app web --template typescript
+: 1651844921:0;ls
+: 1651844922:0;clear
+: 1651844922:0;celar
+: 1651844923:0;cd ..
+: 1651844923:0;ls
+: 1651844924:0;clear
+: 1651844937:0;expo init app
+: 1651845105:0;ls
+: 1651845108:0;cd aoo
+: 1651845109:0;cd app
+: 1651845110:0;clear
+: 1651845111:0;cd ..
+: 1651845111:0;ls
+: 1651845113:0;clear
+: 1651848060:0;cd Dev
+: 1651848061:0;ls
+: 1651848066:0;cd startups
+: 1651848066:0;ls
+: 1651848068:0;cd ..
+: 1651848069:0;lms
+: 1651848069:0;ls
+: 1651848071:0;cd old_projects
+: 1651848071:0;ls
+: 1651848073:0;cd bo
+: 1651848073:0;ls
+: 1651848075:0;cd bonneOffre
+: 1651848075:0;ls
+: 1651848078:0;cd server
+: 1651848078:0;ls
+: 1651848080:0;clear
+: 1651848086:0;cat package.json | less
+: 1651848230:0;mkdir api && cd api && npm init -y && yarn && yarn add express socket.io mongoose morgan bodyparser chalk bcrypt cors express-mongo-sanitize jsonwebtoken uuid && yarn add --dev typescript ts-node-dev tsc tsc-watch @types/express @types/socket.io @types/mongoose @types/morgan @types/bodyparser @types/chalk @types/bcrypt @types/cors @types/express-mongo-sanitize @types/jsonwebtoken @types/uuid
+: 1651848574:0;mkdir api && cd api && npm init -y && yarn && yarn add express socket.io mongoose morgan body-parser chalk bcrypt cors express-mongo-sanitize jsonwebtoken uuid && yarn add --dev typescript ts-node-dev tsc tsc-watch @types/express @types/socket.io @types/mongoose @types/morgan @types/body-parser @types/chalk @types/bcrypt @types/cors @types/express-mongo-sanitize @types/jsonwebtoken @types/uuid
+: 1651848700:0;ls
+: 1651848704:0;clear
+: 1651848725:0;mkdir src && cd src && mkdir router controllers models databases 
+: 1651848726:0;clear
+: 1651848727:0;cd ..
+: 1651848731:0;ls
+: 1651848731:0;cd web
+: 1651848732:0;ls
+: 1651848733:0;clear
+: 1651849009:0;git init
+: 1651849012:0;code .
+: 1651849023:0;touch .gitignore
+: 1651849045:0;git status
+: 1651849059:0;rm -rf .git
+: 1651849060:0;ls
+: 1651849060:0;clear
+: 1651849062:0;git status
+: 1651849063:0;cls
+: 1651849065:0;git init
+: 1651849067:0;clear
+: 1651849069:0;git status
+: 1651849096:0;git add .
+: 1651849099:0;git status
+: 1651849113:0;git commit -m "default project"
+: 1651849120:0;git branch
+: 1651849169:0;git remote add origin https://github.com/Keclyon/osports-web
+: 1651849179:0;git push -u origin master
+: 1651849331:0;sudo su
+: 1651849392:0;clear
+: 1651849425:0;git push -u origin dev
+: 1651849437:0;git push -u origin master
+: 1651849466:0;git checkout -b dev
+: 1651849467:0;clear
+: 1651849468:0;ls
+: 1651849469:0;clear
+: 1651849473:0;git push -u origin dev
+: 1651849519:0;clear
+: 1651849651:0;cd ..
+: 1651849651:0;ls
+: 1651849655:0;cd web
+: 1651849656:0;ls
+: 1651849657:0;clear
+: 1651849660:0;rm -rf .git
+: 1651849661:0;clear
+: 1651849662:0;cd ..
+: 1651849691:0;clear
+: 1651849692:0;git init
+: 1651849693:0;clear 
+: 1651849695:0;git status
+: 1651849699:0;git add .
+: 1651849717:0;clear
+: 1651849724:0;rm -rf .git
+: 1651849725:0;clear
+: 1651849727:0;cd web
+: 1651849727:0;ls
+: 1651849728:0;git init
+: 1651849730:0;git status
+: 1651849732:0;git add .
+: 1651849739:0;git checkout -b "dev"
+: 1651849740:0;clear
+: 1651849743:0;git status
+: 1651849744:0;clear
+: 1651849750:0;git commit -m "base project"
+: 1651849751:0;clear
+: 1651849752:0;ls
+: 1651849752:0;clear
+: 1651849774:0;git add origin https://github.com/Keclyon/osports-web
+: 1651849789:0;git remote add origin https://github.com/Keclyon/osports-web
+: 1651849790:0;clear
+: 1651849794:0;git push -u origin dev
+: 1651849810:0;sudo su
+: 1651849829:0;clear
+: 1651849829:0;ls
+: 1651849831:0;clear
+: 1651849838:0;git push -u origin "dev"
+: 1651849858:0;git push -u origin dev
+: 1651850010:0;yarn add react-router-dom && yarn add --dev @types/react-router-dom
+: 1651850932:0;clear
+: 1651850934:0;cd ..
+: 1651850936:0;rm -rf web
+: 1651851334:0;npx create-next-app web --ts
+: 1651851397:0;cd web && code .
+: 1651851758:0;yarn start
+: 1651851769:0;yarn build
+: 1651851782:0;yarn start
+: 1651851845:0;yarn dev
+: 1651853177:0;clear
+: 1651853177:0;cd ..
+: 1651853179:0;ls
+: 1651853181:0;mkdir tests
+: 1651853181:0;ls
+: 1651853182:0;cealr
+: 1651853183:0;clear
+: 1651853184:0;cd tests
+: 1651853184:0;ls
+: 1651853185:0;clear
+: 1651853199:0;mkdir nextjs
+: 1651853200:0;cd nextjs
+: 1651853200:0;ls
+: 1651853201:0;cealr
+: 1651853201:0;clear
+: 1651853216:0;npx create-next-app next-auth-1
+: 1651853752:0;lock
+: 1651853777:0;vlock
+: 1651869763:0;reboot
+: 1653123434:0;clear
+: 1653123437:0;cd Dev/startups
+: 1653123437:0;ls
+: 1653123440:0;cd 
+: 1653123444:0;cd Dev/startups/s
+: 1653123448:0;cd Dev/startups/sports
+: 1653123448:0;ls
+: 1653123449:0;clear
+: 1653123450:0;cd api
+: 1653123450:0;ls
+: 1653123456:0;cat package.json| less
+: 1653123460:0;clear
+: 1653123463:0;cd ..
+: 1653123464:0;ls
+: 1653123466:0;ls web
+: 1653123471:0;ls web/src
+: 1653123474:0;ls web/src/pages
+: 1653123488:0;cat /web/src/pages/index.tsx | less
+: 1653123490:0;clear
+: 1653123491:0;cd ..
+: 1653123492:0;cd sports
+: 1653123493:0;ls
+: 1653123494:0;clear
+: 1653123495:0;cd app
+: 1653123496:0;ls
+: 1653123500:0;cd ..
+: 1653123500:0;ls
+: 1653123501:0;clear
+: 1653123504:0;cd api
+: 1653123505:0;ls
+: 1653123509:0;cd api
+: 1653123509:0;l
+: 1653123515:0;cat package.json
+: 1653123522:0;ls
+: 1653123525:0;cd ..
+: 1653123525:0;ls
+: 1653123532:0;rm -rf node_modules
+: 1653123533:0;ls
+: 1653123542:0;rm -rf package.json yarn.lock yarn-error.log
+: 1653123543:0;ls
+: 1653123547:0;mv api/ .
+: 1653123569:0;cd api
+: 1653123572:0;mv . ../
+: 1653123578:0;ls
+: 1653123583:0;cd ..
+: 1653123586:0;mv api/* .
+: 1653123587:0;ls
+: 1653123588:0;cd api
+: 1653123589:0;ls
+: 1653123590:0;clear
+: 1653123592:0;rm -rf api
+: 1653123594:0;cd ..
+: 1653123594:0;ls
+: 1653123595:0;ls api
+: 1653123598:0;rm -rf api
+: 1653123598:0;ls
+: 1653123599:0;clear
+: 1653123601:0;cat package.json
+: 1653123605:0;cd ..
+: 1653123606:0;cd api
+: 1653123607:0;cod e.
+: 1653123609:0;code .
+: 1653123615:0;sudo su
+: 1653124527:0;clear
+: 1653124528:0;ls
+: 1653124530:0;sudo su
+: 1653124569:0;ls
+: 1653124572:0;cd src/models
+: 1653124572:0;ls
+: 1653124573:0;clear
+: 1653124668:0;touch scores.models.ts teams.models.ts settings.models.ts sessions.models.ts 
+: 1653124669:0;clear
+: 1653124669:0;ls
+: 1653124670:0;clear
+: 1653124672:0;cd ..
+: 1653124675:0;reboot
+: 1653142343:0;clear
+: 1653142355:0;touch mongo.sh
+: 1653142357:0;clear
+: 1653142360:0;nano mongo
+: 1653142369:0;nano mongo.sh
+: 1653142423:0;chmod +x mongo.sh
+: 1653142423:0;ls
+: 1653142426:0;./mongo.sh
+: 1653142612:0;cd Dev
+: 1653142613:0;ls
+: 1653142618:0;cd startups
+: 1653142619:0;ls
+: 1653142621:0;cd sports
+: 1653142650:0;clear
+: 1653142652:0;cd api
+: 1653142653:0;l
+: 1653142657:0;code .
+: 1653142766:0;ls
+: 1653142771:0;clear
+: 1653142778:0;rm -rf mongo
+: 1653142780:0;rm -rf mongo.sh
+: 1653142781:0;ls
+: 1653142781:0;clear
+: 1653142782:0;ls
+: 1653142783:0;clear
+: 1653142792:0;ls
+: 1653142796:0;mv codeforces Dev
+: 1653142797:0;ls
+: 1653142798:0;clear
+: 1653142802:0;ls
+: 1653142804:0;clear
+: 1653142805:0;cd Dev
+: 1653142806:0;ls
+: 1653142806:0;clear
+: 1653142809:0;cd startups
+: 1653142809:0;ls
+: 1653142814:0;cd ..
+: 1653142817:0;cd old_projects
+: 1653142817:0;ls
+: 1653142818:0;clear
+: 1653142819:0;cd aternosClone
+: 1653142820:0;ls
+: 1653142821:0;cd api
+: 1653142822:0;l
+: 1653142825:0;code .
+: 1653143770:0;reboot
+: 1653217211:0;clear
+: 1653217217:0;cd Dev/startups/sports
+: 1653217217:0;ls
+: 1653217218:0;clear
+: 1653217219:0;cd api
+: 1653217220:0;ls
+: 1653217223:0;code .
+: 1653217232:0;sudo su
+: 1653217468:0;clear
+: 1653217475:0;cd Dev/old_projects/bonneOffre
+: 1653217476:0;ls
+: 1653217478:0;clear
+: 1653217478:0;cd s
+: 1653217480:0;cd server
+: 1653217480:0;	ls
+: 1653217483:0;clear
+: 1653217484:0;code .
+: 1653218054:0;shutdown now
+: 1653736658:0;clear
+: 1653736661:0;cd Dev
+: 1653736662:0;ls
+: 1653736665:0;clear
+: 1653736666:0;cd startups
+: 1653736666:0;ls
+: 1653736667:0;cd sports
+: 1653736667:0;ls
+: 1653736669:0;clear
+: 1653736669:0;cd api
+: 1653736670:0;ls
+: 1653736671:0;clear
+: 1653736671:0;ls
+: 1653736672:0;la
+: 1653736673:0;clear
+: 1653736673:0;l
+: 1653736674:0;clear
+: 1653736674:0;clear 
+: 1653736675:0;code .
+: 1653739355:0;clear
+: 1653739355:0;reboot
+: 1654943888:0;cd Dev
+: 1654943890:0;clear
+: 1654943890:0;ls
+: 1654943892:0;cd startups
+: 1654943893:0;ls
+: 1654943895:0;cd sports
+: 1654943896:0;ls
+: 1654943897:0;cd api
+: 1654943897:0;ls
+: 1654943899:0;code .
+: 1654943905:0;ls
+: 1654943909:0;sudo su
+: 1654945191:0;cd Dev
+: 1654945191:0;ls
+: 1654945192:0;cd startups
+: 1654945192:0;ls
+: 1654945195:0;clear
+: 1654945224:0;mkdir delegado && cd delegado
+: 1654945225:0;clear
+: 1654946294:0;touch info.txt
+: 1654946297:0;nano info.txt
+: 1654946305:0;cd Dev/startups/studentslife
+: 1654946305:0;ls
+: 1654946306:0;cd ..
+: 1654946306:0;ls
+: 1654946308:0;cd delegado
+: 1654946308:0;ls
+: 1654946309:0;clear
+: 1654946312:0;ls
+: 1654946316:0;rm info.txt.save
+: 1654946317:0;clear
+: 1654946318:0;ls
+: 1654946318:0;clear
+: 1654946320:0;code .
+: 1655748124:0;clear
+: 1655748127:0;cd Dev
+: 1655748127:0;ls
+: 1655748129:0;cd startups
+: 1655748130:0;ls
+: 1655748131:0;clear
+: 1655748136:0;mkdir births
+: 1655748139:0;cd births
+: 1655748143:0;expo init app 
+: 1655748196:0;nmcli dev status
+: 1655748212:0;nmcli radio wifi
+: 1655748227:0;nmcli dev wifi list
+: 1655748256:0;nmcli --help
+: 1655748273:0;reboot
+: 1655748926:0;ping google.com
+: 1655748928:0;reboot
+: 1657299459:0;cd /dev/sdb 
+: 1657299461:0;sudo su
+: 1657299532:0;firefox &
+: 1657299665:0;udisk
+: 1657299691:0;udisksctl
+: 1657299700:0;udisksctl mount -b /dev/sdb
+: 1657299724:0;ls /medi
+: 1657299726:0;ls /media
+: 1657299731:0;ls /
+: 1657299745:0;lsblk
+: 1657299757:0;ls /dev/sdb
+: 1657299761:0;cd /dev/sdb
+: 1657299782:0;udisksctl mount -b /dev/sdb1
+: 1657299788:0;cd /dev/sdb1
+: 1657299839:0;fdisk -l
+: 1657299875:0;ls -ld /media
+: 1657299910:0;ls /mnt
+: 1657299924:0;mount -o gid=users,fmask=113,dmask=002 /dev/sdb1 /mnt/usbstick
+: 1657299948:0;sudo su
+: 1657299965:0;sudo pacman -S udisks2
+: 1657299980:0;udisksctl mount -b /dev/sdb1
+: 1657299999:0;thunar &
+: 1657300103:0;udisksctl mount -b /dev/sdb1
+: 1657300158:0;sudo pacman -S udiskie ntfs-3g
+: 1657300186:0;thunar &
+: 1657300353:0;udiskie
+: 1657300357:0;udiskie --help
+: 1657300361:0;udisks
+: 1657300403:0;ls
+: 1657300404:0;cd ..
+: 1657300406:0;ls
+: 1657300408:0;la
+: 1657300420:0;cd keclyon
+: 1657300421:0;ls
+: 1657300422:0;la
+: 1657300756:0;sudo su
+: 1657301120:0;thunar &
+: 1657310947:0;cd /run/media/keclyon
+: 1657310948:0;ls
+: 1657310949:0;cd 482D-27D1
+: 1657310949:0;ls
+: 1657310950:0;clear
+: 1657310951:0;cd DeV
+: 1657310951:0;ls
+: 1657310952:0;clear
+: 1657310955:0;cd old_projects
+: 1657310959:0;cd aternosClone
+: 1657310991:0;mkdir connection serverManager web
+: 1657311151:0;ls
+: 1657311157:0;cd ..
+: 1657311160:0;mkdir nodeScraper
+: 1657311164:0;cd nodeScraper
+: 1657311169:0;cd ..
+: 1657311172:0;rm -rf nodeScraper
+: 1657311173:0;ls
+: 1657311178:0;clear
+: 1657311180:0;cd bonneOffre
+: 1657311180:0;ls
+: 1657311184:0;ls admin
+: 1657311200:0;mkdir admin
+: 1657311252:0;mkdir server
+: 1657311268:0;mkdir web
+: 1657312270:0;reboot
+: 1657375545:0;cd /run/media/kec
+: 1657375548:0;cd /run/media
+: 1657375549:0;ls
+: 1657376060:0;cd
+: 1657376061:0;clear
+: 1657376065:0;la
+: 1657376073:0;la | grep history
+: 1657376079:0;$SHELL
+: 1657376083:0;echo $SHELL
+: 1657376088:0;cat .zsh_history
+: 1657376100:0;thunar &
+: 1657376134:0;sudo su
+: 1657376165:0;udisksctl
+: 1657376185:0;udiskie
+: 1657376202:0;notification-send test
+: 1657376213:0;sudo su
+: 1657376233:0;reboot
+: 1657381957:0;cd /run/media
+: 1657381957:0;ls
+: 1657381959:0;cd keclyon
+: 1657381959:0;ls
+: 1657381960:0;cd KHACHANI
+: 1657381960:0;ls
+: 1657381962:0;cd Dev
+: 1657381962:0;ls
+: 1657381964:0;cd old_projects
+: 1657381965:0;ls
+: 1657381967:0;cd aternosClone
+: 1657381967:0;ls
+: 1657381968:0;clear
+: 1657381976:0;mkdir api connection serverManager web
+: 1657383669:0;cd ../bonneOffre
+: 1657383669:0;ls
+: 1657383670:0;clear
+: 1657383676:0;mkdir admin nodeScraper scraper server web
+: 1657383788:0;cd ../bos
+: 1657383788:0;ls
+: 1657383789:0;clear
+: 1657383795:0;mkdir bos test tests
+: 1657383799:0;cd bos
+: 1657383840:0;cd ..
+: 1657383842:0;mkdir chess
+: 1657383843:0;cd chess
+: 1657383844:0;mkdir web
+: 1657383865:0;cd ..
+: 1657383867:0;mkdir crid
+: 1657383868:0;cd crid
+: 1657383869:0;ld
+: 1657383870:0;ls
+: 1657383871:0;clear
+: 1657383877:0;mkdir app server
+: 1657383895:0;cd ..
+: 1657383915:0;mkdir electron-quick-start-ts
+: 1657383994:0;mkdir maCopie
+: 1657384001:0;cd maCopie
+: 1657384006:0;mkdir web server
+: 1657384026:0;cd ..
+: 1657384027:0;mkdir os
+: 1657384029:0;cd os
+: 1657384030:0;mkdir client
+: 1657384044:0;cd ..
+: 1657384046:0;mkdir sellApp
+: 1657384055:0;mkdir app server testApp testingApp
+: 1657384108:0;mkdir sellApp
+: 1657384109:0;cd sellApp
+: 1657384111:0;mkdir app server testApp testingApp
+: 1657384153:0;cd ..
+: 1657384156:0;mkdir sellersApp
+: 1657384158:0;cd sellersApp
+: 1657384161:0;mkdir server
+: 1657384162:0;cd ..
+: 1657384183:0;mkdir test
+: 1657384193:0;mkdir fastify
+: 1657384204:0;rm -rf fastify
+: 1657384209:0;mkdir test/fastify
+: 1657384223:0;mkdir tkda
+: 1657384225:0;cd tkda
+: 1657384229:0;mkdir app server
+: 1657384287:0;cd ../../startups
+: 1657384288:0;ls
+: 1657384289:0;clear
+: 1657384296:0;mkdir chess && cd chess && mkdir engine tests web web2
+: 1657384303:0;cd engine
+: 1657384303:0;ls
+: 1657384305:0;mkdir v1
+: 1657384307:0;cd v1
+: 1657384373:0;cd ..
+: 1657384380:0;mkdir sports studentslife
+: 1657384381:0;cd sports
+: 1657384382:0;ls
+: 1657384382:0;clear
+: 1657384405:0;mkdir app
+: 1657384768:0;cd /run/media/keclyon/KHACHANI
+: 1657384774:0;cd trash
+: 1657384774:0;ls
+: 1657384776:0;clear
+: 1657384781:0;mkdir testApp
+: 1657384785:0;mkdir testingApp
+: 1657384798:0;mkdir test
+: 1657384815:0;mkdir Test
+: 1657384817:0;mkdir TestFolder
+: 1657384840:0;mkdir server
+: 1657384845:0;cd TestFolder
+: 1657384847:0;mkdir server
+: 1657386479:0;clear
+: 1657386482:0;cd
+: 1657386482:0;ls
+: 1657386483:0;la
+: 1657386484:0;clear
+: 1657386485:0;la
+: 1657386493:0;cd .config
+: 1657386494:0;ls
+: 1657386634:0;reboot
+: 1657390156:0;clear
+: 1657390157:0;cd .config
+: 1657390158:0;la
+: 1657390165:0;thunar .
+: 1657390293:0;reboot
+: 1657392531:0;clear
+: 1657392534:0;la
+: 1657392542:0;thunar . &

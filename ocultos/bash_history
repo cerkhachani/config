@@ -1,0 +1,210 @@
+clear
+sudo su
+setxkbmap fr
+clear
+sudo su
+firefox &
+git -g
+git -h
+mkdir Downloads
+git clone https://aut.archlinux.org/snapd.git
+git clone https://aur.archlinux.org/snapd.git
+ls
+mv snapd/ Downloads/
+ls
+cd Downloads/
+ls
+cd snapd/
+ls
+makepkg -si
+makepkg -si
+snap
+clear
+snap install brave
+sudo su
+clear
+echo"test"
+echo "test"
+cd Downloads/
+git clone https://aur.archlinux.org/yay.git
+cd yay/
+ls
+makepkg -si
+firefox &
+setxkbmap fr
+sudo su
+firefox &
+sudo su
+yay nerd-fibts-ubuntu-mono
+yay -S nerd-fonts-ubuntu-mono
+yay nerd-fonts-jetbrains-mono
+yay nerd-fonts-jetbrains-mono
+yay nerd-fonts-jetbrains-mono
+reboot
+clear
+systemctl enable --now lightdm
+cleqr
+setxkbmap 
+setxkbmap fr
+clear
+udiskie -t
+cd /run/media/keclyon/USB/
+ls
+cd house/
+ls
+cd config/
+ls
+cp qtile/* /home/keclyon/.config/qtile/
+cp -r qtile/* /home/keclyon/.config/qtile/
+code qtile
+clear
+reboot
+cd /run/media/keclyon/USB/
+ls
+clear
+cd house
+ls -la
+cat .xprofile 
+clear
+cd 
+cd .config/
+ls
+cd qtile/
+ls
+mv config.py defaultconfig.py
+clear
+ls
+setxkbmap fr
+clear
+clear
+celar
+clear
+clear
+sudo su
+clear
+code .config/qtile/
+clear
+pip install --install-option="--themes=all" pycritty
+sudo su
+cp /run/media/keclyon/USB/house/.xprofile .
+reboot
+udiskie -t &
+xrandr --output DP-1 --mode 1920x1080
+clear
+ls
+ls -a
+reboot
+xrandr --mode 1920x1080
+xrandr --ouput DP-1 --mode 1920x1080
+xrandr --output DP-1 --mode 1920x1080
+clear
+clear
+clear
+clear
+nano .Xresources
+clear
+xrandr --output DP-1 --mode 1920x1080
+clear
+feh --bg-scale ~/Downloads/wallpaper.jpg 
+feh --bg-scale ~/Downloads/wallpaper_nature.jpg 
+pip install --install-option="--themes=all" pycritty
+sudo su
+pip install --install-option="--themes=all" pycritty
+pycritty -t breeze
+cd .config/
+ls
+sudo su
+clear
+pip install --install-option="--themes=all" pycritty
+pycritty -t breeze
+pycritty
+pycritty -t breeze
+pycritty list
+pycritty ls
+pycritty -f JetBrains
+clear
+sudo pacman -S zsh
+zsh
+zsh
+cd /usr/
+ls
+cd share/
+ls
+cd rofi/
+sl
+ls
+cd themes/
+ls
+nano onedark.rasi
+sudo nano onedark.rasi
+clear
+rofi-theme-selector
+sudo nano /usr/share/dbus-1/services/org.freedesktop.Notifications.service
+notify-send "hgel"
+notify-send "Hello World"
+clear
+cat .xprofile 
+cd Downloads/
+ls
+cd ..
+nano .xprofile 
+yay
+clear
+yay -S simple-mtpfs
+sudo pacman -S unzip
+cd Downloads/
+ls
+unzip Material-Black-Blueberry-4.0_2.0.zip 
+ls
+mv Material-Black-Blueberry-4.0 Material-Black-Blueberry
+unzip Material-Black-Blueberry-Suru_1.9.3.zip 
+rm Material-Black-Blueberry*.zip
+ls
+sudo mv Material-Black-Blueberry /usr/share/themes
+sudo mv Material-Black-Blueberry-Suru /usr/share/icons/
+ls
+ls -a
+cd ..
+ls -a
+nano .gtkrc-2.0
+lear
+clear
+cd .config/
+mkdir gtk-3.0
+nano settings.ini
+sudo pacman -S xcb-util-cursor
+cd
+cd Downloads/
+ls
+unzip 165371-Breeze.tar.gz 
+tar -xf 165371-Breeze.tar.gz 
+ls
+sudo mv Breeze/ /usr/share/icons
+clear
+cd /usr/share/icons/default/
+ls
+nano index.theme 
+sudo nano index.theme 
+cd
+nano .gtkrc-2.0 
+cd .config/
+ls
+cd gtk-3.0/
+ls
+nano settings.ini
+clear
+sudo pacman -S lxappearance
+sudo pacman -S picom
+reboot
+zsh
+zsh
+brew
+brew install gcc
+zsh
+clear
+yarn start
+yarn lint
+cd dist/
+ls -l
+clear
+shutdown now

@@ -1,0 +1,17 @@
+clear
+cls
+clear
+help
+help hm
+HGETALL codes
+HDEL codes
+HGETALL codes mail
+hget mail
+hget codes mail
+hget codes v8rsxct9j32bs7ccdwspp9ivk6uagwd1cpzoywfn4y9du661u9qp27e2teow
+del codes
+hgetall codes
+HGETALL socketClients
+HGET socketClients d10e91ad8de14519bdac828df60a382f82mdiue7ts
+HGET socketClients 3ee6aab89d254534a21b841f42fc349c1zumb5dlh8
+HGETALL socketClients
